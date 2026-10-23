@@ -1,0 +1,601 @@
+profile,userId,history_size,method,factors,epochs,seed,alpha,rank,movieId,title
+amplio,414,2697,popularity,0,0,0,0.0,1,2324,Life Is Beautiful (La Vita è bella) (1997)
+amplio,414,2697,popularity,0,0,0,0.0,2,922,Sunset Blvd. (a.k.a. Sunset Boulevard) (1950)
+amplio,414,2697,popularity,0,0,0,0.0,3,898,"Philadelphia Story, The (1940)"
+amplio,414,2697,popularity,0,0,0,0.0,4,246,Hoop Dreams (1994)
+amplio,414,2697,popularity,0,0,0,0.0,5,1203,12 Angry Men (1957)
+amplio,414,2697,popularity,0,0,0,0.0,6,1258,"Shining, The (1980)"
+amplio,414,2697,popularity,0,0,0,0.0,7,3468,"Hustler, The (1961)"
+amplio,414,2697,popularity,0,0,0,0.0,8,2160,Rosemary's Baby (1968)
+amplio,414,2697,popularity,0,0,0,0.0,9,926,All About Eve (1950)
+amplio,414,2697,popularity,0,0,0,0.0,10,1212,"Third Man, The (1949)"
+pequeno,53,19,popularity,0,0,0,0.0,1,318,"Shawshank Redemption, The (1994)"
+pequeno,53,19,popularity,0,0,0,0.0,2,858,"Godfather, The (1972)"
+pequeno,53,19,popularity,0,0,0,0.0,3,2959,Fight Club (1999)
+pequeno,53,19,popularity,0,0,0,0.0,4,260,Star Wars: Episode IV - A New Hope (1977)
+pequeno,53,19,popularity,0,0,0,0.0,5,50,"Usual Suspects, The (1995)"
+pequeno,53,19,popularity,0,0,0,0.0,6,1221,"Godfather: Part II, The (1974)"
+pequeno,53,19,popularity,0,0,0,0.0,7,1197,"Princess Bride, The (1987)"
+pequeno,53,19,popularity,0,0,0,0.0,8,1213,Goodfellas (1990)
+pequeno,53,19,popularity,0,0,0,0.0,9,527,Schindler's List (1993)
+pequeno,53,19,popularity,0,0,0,0.0,10,58559,"Dark Knight, The (2008)"
+nuevo,-1,0,popularity,0,0,0,0.0,1,318,"Shawshank Redemption, The (1994)"
+nuevo,-1,0,popularity,0,0,0,0.0,2,858,"Godfather, The (1972)"
+nuevo,-1,0,popularity,0,0,0,0.0,3,2959,Fight Club (1999)
+nuevo,-1,0,popularity,0,0,0,0.0,4,260,Star Wars: Episode IV - A New Hope (1977)
+nuevo,-1,0,popularity,0,0,0,0.0,5,50,"Usual Suspects, The (1995)"
+nuevo,-1,0,popularity,0,0,0,0.0,6,1221,"Godfather: Part II, The (1974)"
+nuevo,-1,0,popularity,0,0,0,0.0,7,1197,"Princess Bride, The (1987)"
+nuevo,-1,0,popularity,0,0,0,0.0,8,1213,Goodfellas (1990)
+nuevo,-1,0,popularity,0,0,0,0.0,9,527,Schindler's List (1993)
+nuevo,-1,0,popularity,0,0,0,0.0,10,58559,"Dark Knight, The (2008)"
+amplio,414,2697,content,0,0,0,0.0,1,82,Antonia's Line (Antonia) (1995)
+amplio,414,2697,content,0,0,0,0.0,2,96,In the Bleak Midwinter (1995)
+amplio,414,2697,content,0,0,0,0.0,3,106,Nobody Loves Me (Keiner liebt mich) (1994)
+amplio,414,2697,content,0,0,0,0.0,4,156,Blue in the Face (1995)
+amplio,414,2697,content,0,0,0,0.0,5,171,Jeffrey (1995)
+amplio,414,2697,content,0,0,0,0.0,6,178,Love & Human Remains (1993)
+amplio,414,2697,content,0,0,0,0.0,7,194,Smoke (1995)
+amplio,414,2697,content,0,0,0,0.0,8,272,"Madness of King George, The (1994)"
+amplio,414,2697,content,0,0,0,0.0,9,304,Roommates (1995)
+amplio,414,2697,content,0,0,0,0.0,10,324,"Sum of Us, The (1994)"
+pequeno,53,19,content,0,0,0,0.0,1,72142,Love Exposure (Ai No Mukidashi) (2008)
+pequeno,53,19,content,0,0,0,0.0,2,4,Waiting to Exhale (1995)
+pequeno,53,19,content,0,0,0,0.0,3,11,"American President, The (1995)"
+pequeno,53,19,content,0,0,0,0.0,4,52,Mighty Aphrodite (1995)
+pequeno,53,19,content,0,0,0,0.0,5,58,"Postman, The (Postino, Il) (1994)"
+pequeno,53,19,content,0,0,0,0.0,6,94,Beautiful Girls (1996)
+pequeno,53,19,content,0,0,0,0.0,7,195,Something to Talk About (1995)
+pequeno,53,19,content,0,0,0,0.0,8,224,Don Juan DeMarco (1995)
+pequeno,53,19,content,0,0,0,0.0,9,232,Eat Drink Man Woman (Yin shi nan nu) (1994)
+pequeno,53,19,content,0,0,0,0.0,10,281,Nobody's Fool (1994)
+nuevo,-1,0,content,0,0,0,0.0,1,318,"Shawshank Redemption, The (1994)"
+nuevo,-1,0,content,0,0,0,0.0,2,858,"Godfather, The (1972)"
+nuevo,-1,0,content,0,0,0,0.0,3,2959,Fight Club (1999)
+nuevo,-1,0,content,0,0,0,0.0,4,260,Star Wars: Episode IV - A New Hope (1977)
+nuevo,-1,0,content,0,0,0,0.0,5,50,"Usual Suspects, The (1995)"
+nuevo,-1,0,content,0,0,0,0.0,6,1221,"Godfather: Part II, The (1974)"
+nuevo,-1,0,content,0,0,0,0.0,7,1197,"Princess Bride, The (1987)"
+nuevo,-1,0,content,0,0,0,0.0,8,1213,Goodfellas (1990)
+nuevo,-1,0,content,0,0,0,0.0,9,527,Schindler's List (1993)
+nuevo,-1,0,content,0,0,0,0.0,10,58559,"Dark Knight, The (2008)"
+amplio,414,2697,collaborative,8,4,17,1.0,1,168248,John Wick: Chapter Two (2017)
+amplio,414,2697,collaborative,8,4,17,1.0,2,141890,Beasts of No Nation (2015)
+amplio,414,2697,collaborative,8,4,17,1.0,3,3152,"Last Picture Show, The (1971)"
+amplio,414,2697,collaborative,8,4,17,1.0,4,109846,Mr. Peabody & Sherman (2014)
+amplio,414,2697,collaborative,8,4,17,1.0,5,26,Othello (1995)
+amplio,414,2697,collaborative,8,4,17,1.0,6,5244,Shogun Assassin (1980)
+amplio,414,2697,collaborative,8,4,17,1.0,7,381,When a Man Loves a Woman (1994)
+amplio,414,2697,collaborative,8,4,17,1.0,8,146244,Dil To Pagal Hai (1997)
+amplio,414,2697,collaborative,8,4,17,1.0,9,3090,Matewan (1987)
+amplio,414,2697,collaborative,8,4,17,1.0,10,96004,Dragon Ball Z: The History of Trunks (Doragon bôru Z: Zetsubô e no hankô!! Nokosareta chô senshi - Gohan to Torankusu) (1993)
+pequeno,53,19,collaborative,8,4,17,1.0,1,62113,How to Lose Friends & Alienate People (2008)
+pequeno,53,19,collaborative,8,4,17,1.0,2,27830,"Bobby Jones, Stroke of Genius (2004)"
+pequeno,53,19,collaborative,8,4,17,1.0,3,6961,Damage (Fatale) (1992)
+pequeno,53,19,collaborative,8,4,17,1.0,4,69118,In the Electric Mist (2009)
+pequeno,53,19,collaborative,8,4,17,1.0,5,4932,Dressed to Kill (1980)
+pequeno,53,19,collaborative,8,4,17,1.0,6,893,Mother Night (1996)
+pequeno,53,19,collaborative,8,4,17,1.0,7,59141,Son of Rambow (2007)
+pequeno,53,19,collaborative,8,4,17,1.0,8,6713,Millennium Actress (Sennen joyû) (2001)
+pequeno,53,19,collaborative,8,4,17,1.0,9,4492,Critters (1986)
+pequeno,53,19,collaborative,8,4,17,1.0,10,72998,Avatar (2009)
+nuevo,-1,0,collaborative,8,4,17,1.0,1,318,"Shawshank Redemption, The (1994)"
+nuevo,-1,0,collaborative,8,4,17,1.0,2,858,"Godfather, The (1972)"
+nuevo,-1,0,collaborative,8,4,17,1.0,3,2959,Fight Club (1999)
+nuevo,-1,0,collaborative,8,4,17,1.0,4,260,Star Wars: Episode IV - A New Hope (1977)
+nuevo,-1,0,collaborative,8,4,17,1.0,5,50,"Usual Suspects, The (1995)"
+nuevo,-1,0,collaborative,8,4,17,1.0,6,1221,"Godfather: Part II, The (1974)"
+nuevo,-1,0,collaborative,8,4,17,1.0,7,1197,"Princess Bride, The (1987)"
+nuevo,-1,0,collaborative,8,4,17,1.0,8,1213,Goodfellas (1990)
+nuevo,-1,0,collaborative,8,4,17,1.0,9,527,Schindler's List (1993)
+nuevo,-1,0,collaborative,8,4,17,1.0,10,58559,"Dark Knight, The (2008)"
+amplio,414,2697,hybrid,8,4,17,0.25,1,40597,One-Way Ticket to Mombasa (Menolippu Mombasaan) (2002)
+amplio,414,2697,hybrid,8,4,17,0.25,2,114028,Pride (2014)
+amplio,414,2697,hybrid,8,4,17,0.25,3,1734,My Life in Pink (Ma vie en rose) (1997)
+amplio,414,2697,hybrid,8,4,17,0.25,4,83910,"Dilemma, The (2011)"
+amplio,414,2697,hybrid,8,4,17,0.25,5,40491,"Match Factory Girl, The (Tulitikkutehtaan tyttö) (1990)"
+amplio,414,2697,hybrid,8,4,17,0.25,6,144478,"Sex, Drugs & Taxation (2013)"
+amplio,414,2697,hybrid,8,4,17,0.25,7,171,Jeffrey (1995)
+amplio,414,2697,hybrid,8,4,17,0.25,8,146244,Dil To Pagal Hai (1997)
+amplio,414,2697,hybrid,8,4,17,0.25,9,8293,Used People (1992)
+amplio,414,2697,hybrid,8,4,17,0.25,10,8391,Big Wednesday (1978)
+pequeno,53,19,hybrid,8,4,17,0.25,1,83969,Down Argentine Way (1940)
+pequeno,53,19,hybrid,8,4,17,0.25,2,892,Twelfth Night (1996)
+pequeno,53,19,hybrid,8,4,17,0.25,3,128594,Boy Meets Girl (2015)
+pequeno,53,19,hybrid,8,4,17,0.25,4,134021,5 to 7 (2014)
+pequeno,53,19,hybrid,8,4,17,0.25,5,27644,Remember Me (Ricordati di me) (2003)
+pequeno,53,19,hybrid,8,4,17,0.25,6,359,I Like It Like That (1994)
+pequeno,53,19,hybrid,8,4,17,0.25,7,50792,Catch and Release (2006)
+pequeno,53,19,hybrid,8,4,17,0.25,8,87522,Larry Crowne (2011)
+pequeno,53,19,hybrid,8,4,17,0.25,9,7354,Mad Dog and Glory (1993)
+pequeno,53,19,hybrid,8,4,17,0.25,10,82167,Love and Other Drugs (2010)
+nuevo,-1,0,hybrid,8,4,17,0.25,1,318,"Shawshank Redemption, The (1994)"
+nuevo,-1,0,hybrid,8,4,17,0.25,2,858,"Godfather, The (1972)"
+nuevo,-1,0,hybrid,8,4,17,0.25,3,2959,Fight Club (1999)
+nuevo,-1,0,hybrid,8,4,17,0.25,4,260,Star Wars: Episode IV - A New Hope (1977)
+nuevo,-1,0,hybrid,8,4,17,0.25,5,50,"Usual Suspects, The (1995)"
+nuevo,-1,0,hybrid,8,4,17,0.25,6,1221,"Godfather: Part II, The (1974)"
+nuevo,-1,0,hybrid,8,4,17,0.25,7,1197,"Princess Bride, The (1987)"
+nuevo,-1,0,hybrid,8,4,17,0.25,8,1213,Goodfellas (1990)
+nuevo,-1,0,hybrid,8,4,17,0.25,9,527,Schindler's List (1993)
+nuevo,-1,0,hybrid,8,4,17,0.25,10,58559,"Dark Knight, The (2008)"
+amplio,414,2697,hybrid,8,4,17,0.75,1,146244,Dil To Pagal Hai (1997)
+amplio,414,2697,hybrid,8,4,17,0.75,2,3152,"Last Picture Show, The (1971)"
+amplio,414,2697,hybrid,8,4,17,0.75,3,26,Othello (1995)
+amplio,414,2697,hybrid,8,4,17,0.75,4,3090,Matewan (1987)
+amplio,414,2697,hybrid,8,4,17,0.75,5,1041,Secrets & Lies (1996)
+amplio,414,2697,hybrid,8,4,17,0.75,6,381,When a Man Loves a Woman (1994)
+amplio,414,2697,hybrid,8,4,17,0.75,7,168248,John Wick: Chapter Two (2017)
+amplio,414,2697,hybrid,8,4,17,0.75,8,2697,My Son the Fanatic (1997)
+amplio,414,2697,hybrid,8,4,17,0.75,9,40597,One-Way Ticket to Mombasa (Menolippu Mombasaan) (2002)
+amplio,414,2697,hybrid,8,4,17,0.75,10,152071,Race (2016)
+pequeno,53,19,hybrid,8,4,17,0.75,1,27830,"Bobby Jones, Stroke of Genius (2004)"
+pequeno,53,19,hybrid,8,4,17,0.75,2,6961,Damage (Fatale) (1992)
+pequeno,53,19,hybrid,8,4,17,0.75,3,893,Mother Night (1996)
+pequeno,53,19,hybrid,8,4,17,0.75,4,62113,How to Lose Friends & Alienate People (2008)
+pequeno,53,19,hybrid,8,4,17,0.75,5,7008,Last Tango in Paris (Ultimo tango a Parigi) (1972)
+pequeno,53,19,hybrid,8,4,17,0.75,6,30803,3-Iron (Bin-jip) (2004)
+pequeno,53,19,hybrid,8,4,17,0.75,7,3156,Bicentennial Man (1999)
+pequeno,53,19,hybrid,8,4,17,0.75,8,8575,"Happenstance (Battement d'ailes du papillon, Le) (2001)"
+pequeno,53,19,hybrid,8,4,17,0.75,9,5741,"Woman Next Door, The (Femme d'à côté, La) (1981)"
+pequeno,53,19,hybrid,8,4,17,0.75,10,7131,"Summer Place, A (1959)"
+nuevo,-1,0,hybrid,8,4,17,0.75,1,318,"Shawshank Redemption, The (1994)"
+nuevo,-1,0,hybrid,8,4,17,0.75,2,858,"Godfather, The (1972)"
+nuevo,-1,0,hybrid,8,4,17,0.75,3,2959,Fight Club (1999)
+nuevo,-1,0,hybrid,8,4,17,0.75,4,260,Star Wars: Episode IV - A New Hope (1977)
+nuevo,-1,0,hybrid,8,4,17,0.75,5,50,"Usual Suspects, The (1995)"
+nuevo,-1,0,hybrid,8,4,17,0.75,6,1221,"Godfather: Part II, The (1974)"
+nuevo,-1,0,hybrid,8,4,17,0.75,7,1197,"Princess Bride, The (1987)"
+nuevo,-1,0,hybrid,8,4,17,0.75,8,1213,Goodfellas (1990)
+nuevo,-1,0,hybrid,8,4,17,0.75,9,527,Schindler's List (1993)
+nuevo,-1,0,hybrid,8,4,17,0.75,10,58559,"Dark Knight, The (2008)"
+amplio,414,2697,collaborative,8,4,42,1.0,1,105,"Bridges of Madison County, The (1995)"
+amplio,414,2697,collaborative,8,4,42,1.0,2,92681,Journey 2: The Mysterious Island (2012)
+amplio,414,2697,collaborative,8,4,42,1.0,3,3622,"Twelve Chairs, The (1970)"
+amplio,414,2697,collaborative,8,4,42,1.0,4,6119,Santa Claus Is a Stinker (Le Père Noël est une ordure) (1982)
+amplio,414,2697,collaborative,8,4,42,1.0,5,175401,Wolf and Calf (1984)
+amplio,414,2697,collaborative,8,4,42,1.0,6,110826,Brick Mansions (2014)
+amplio,414,2697,collaborative,8,4,42,1.0,7,55814,"Diving Bell and the Butterfly, The (Scaphandre et le papillon, Le) (2007)"
+amplio,414,2697,collaborative,8,4,42,1.0,8,5333,Bob le Flambeur (1955)
+amplio,414,2697,collaborative,8,4,42,1.0,9,1449,Waiting for Guffman (1996)
+amplio,414,2697,collaborative,8,4,42,1.0,10,1005,D3: The Mighty Ducks (1996)
+pequeno,53,19,collaborative,8,4,42,1.0,1,32666,National Lampoon's Lady Killers (National Lampoon's Gold Diggers) (2003)
+pequeno,53,19,collaborative,8,4,42,1.0,2,62208,"Sound of the Mountain (Thunder of the Mountain, The) (Yama no oto) (1954)"
+pequeno,53,19,collaborative,8,4,42,1.0,3,2368,King Kong Lives (1986)
+pequeno,53,19,collaborative,8,4,42,1.0,4,4424,"Garden of the Finzi-Continis, The (Giardino dei Finzi-Contini, Il) (1970)"
+pequeno,53,19,collaborative,8,4,42,1.0,5,5530,Simone (S1m0ne) (2002)
+pequeno,53,19,collaborative,8,4,42,1.0,6,6387,Once a Thief (Zong heng si hai) (1991)
+pequeno,53,19,collaborative,8,4,42,1.0,7,86068,Films to Keep You Awake: The Christmas Tale (Películas para no dormir: Cuento de navidad) (2005)
+pequeno,53,19,collaborative,8,4,42,1.0,8,5872,Die Another Day (2002)
+pequeno,53,19,collaborative,8,4,42,1.0,9,96917,House at the End of the Street (2012)
+pequeno,53,19,collaborative,8,4,42,1.0,10,7063,"Aguirre: The Wrath of God (Aguirre, der Zorn Gottes) (1972)"
+nuevo,-1,0,collaborative,8,4,42,1.0,1,318,"Shawshank Redemption, The (1994)"
+nuevo,-1,0,collaborative,8,4,42,1.0,2,858,"Godfather, The (1972)"
+nuevo,-1,0,collaborative,8,4,42,1.0,3,2959,Fight Club (1999)
+nuevo,-1,0,collaborative,8,4,42,1.0,4,260,Star Wars: Episode IV - A New Hope (1977)
+nuevo,-1,0,collaborative,8,4,42,1.0,5,50,"Usual Suspects, The (1995)"
+nuevo,-1,0,collaborative,8,4,42,1.0,6,1221,"Godfather: Part II, The (1974)"
+nuevo,-1,0,collaborative,8,4,42,1.0,7,1197,"Princess Bride, The (1987)"
+nuevo,-1,0,collaborative,8,4,42,1.0,8,1213,Goodfellas (1990)
+nuevo,-1,0,collaborative,8,4,42,1.0,9,527,Schindler's List (1993)
+nuevo,-1,0,collaborative,8,4,42,1.0,10,58559,"Dark Knight, The (2008)"
+amplio,414,2697,hybrid,8,4,42,0.25,1,106,Nobody Loves Me (Keiner liebt mich) (1994)
+amplio,414,2697,hybrid,8,4,42,0.25,2,135198,The Hairdresser (2010)
+amplio,414,2697,hybrid,8,4,42,0.25,3,639,Girl 6 (1996)
+amplio,414,2697,hybrid,8,4,42,0.25,4,93512,"Jeff, Who Lives at Home (2012)"
+amplio,414,2697,hybrid,8,4,42,0.25,5,3167,Carnal Knowledge (1971)
+amplio,414,2697,hybrid,8,4,42,0.25,6,102993,"Way, Way Back, The (2013)"
+amplio,414,2697,hybrid,8,4,42,0.25,7,73681,"Concert, Le (2009)"
+amplio,414,2697,hybrid,8,4,42,0.25,8,77800,Four Lions (2010)
+amplio,414,2697,hybrid,8,4,42,0.25,9,4289,"City of Women, The (Città delle donne, La) (1980)"
+amplio,414,2697,hybrid,8,4,42,0.25,10,1300,My Life as a Dog (Mitt liv som hund) (1985)
+pequeno,53,19,hybrid,8,4,42,0.25,1,58839,Leatherheads (2008)
+pequeno,53,19,hybrid,8,4,42,0.25,2,101415,"First Time, The (2012)"
+pequeno,53,19,hybrid,8,4,42,0.25,3,5466,My Wife is an Actress (Ma Femme est une Actrice) (2001)
+pequeno,53,19,hybrid,8,4,42,0.25,4,43744,Imagine Me & You (2005)
+pequeno,53,19,hybrid,8,4,42,0.25,5,6266,What a Girl Wants (2003)
+pequeno,53,19,hybrid,8,4,42,0.25,6,1883,Bulworth (1998)
+pequeno,53,19,hybrid,8,4,42,0.25,7,96975,LOL (2012)
+pequeno,53,19,hybrid,8,4,42,0.25,8,27826,Touch of Pink (2004)
+pequeno,53,19,hybrid,8,4,42,0.25,9,33649,Saving Face (2004)
+pequeno,53,19,hybrid,8,4,42,0.25,10,128594,Boy Meets Girl (2015)
+nuevo,-1,0,hybrid,8,4,42,0.25,1,318,"Shawshank Redemption, The (1994)"
+nuevo,-1,0,hybrid,8,4,42,0.25,2,858,"Godfather, The (1972)"
+nuevo,-1,0,hybrid,8,4,42,0.25,3,2959,Fight Club (1999)
+nuevo,-1,0,hybrid,8,4,42,0.25,4,260,Star Wars: Episode IV - A New Hope (1977)
+nuevo,-1,0,hybrid,8,4,42,0.25,5,50,"Usual Suspects, The (1995)"
+nuevo,-1,0,hybrid,8,4,42,0.25,6,1221,"Godfather: Part II, The (1974)"
+nuevo,-1,0,hybrid,8,4,42,0.25,7,1197,"Princess Bride, The (1987)"
+nuevo,-1,0,hybrid,8,4,42,0.25,8,1213,Goodfellas (1990)
+nuevo,-1,0,hybrid,8,4,42,0.25,9,527,Schindler's List (1993)
+nuevo,-1,0,hybrid,8,4,42,0.25,10,58559,"Dark Knight, The (2008)"
+amplio,414,2697,hybrid,8,4,42,0.75,1,105,"Bridges of Madison County, The (1995)"
+amplio,414,2697,hybrid,8,4,42,0.75,2,106,Nobody Loves Me (Keiner liebt mich) (1994)
+amplio,414,2697,hybrid,8,4,42,0.75,3,55814,"Diving Bell and the Butterfly, The (Scaphandre et le papillon, Le) (2007)"
+amplio,414,2697,hybrid,8,4,42,0.75,4,110826,Brick Mansions (2014)
+amplio,414,2697,hybrid,8,4,42,0.75,5,135198,The Hairdresser (2010)
+amplio,414,2697,hybrid,8,4,42,0.75,6,639,Girl 6 (1996)
+amplio,414,2697,hybrid,8,4,42,0.75,7,3622,"Twelve Chairs, The (1970)"
+amplio,414,2697,hybrid,8,4,42,0.75,8,93512,"Jeff, Who Lives at Home (2012)"
+amplio,414,2697,hybrid,8,4,42,0.75,9,6119,Santa Claus Is a Stinker (Le Père Noël est une ordure) (1982)
+amplio,414,2697,hybrid,8,4,42,0.75,10,151501,Exposed (2016)
+pequeno,53,19,hybrid,8,4,42,0.75,1,62208,"Sound of the Mountain (Thunder of the Mountain, The) (Yama no oto) (1954)"
+pequeno,53,19,hybrid,8,4,42,0.75,2,32666,National Lampoon's Lady Killers (National Lampoon's Gold Diggers) (2003)
+pequeno,53,19,hybrid,8,4,42,0.75,3,649,Cold Fever (Á köldum klaka) (1995)
+pequeno,53,19,hybrid,8,4,42,0.75,4,58839,Leatherheads (2008)
+pequeno,53,19,hybrid,8,4,42,0.75,5,101415,"First Time, The (2012)"
+pequeno,53,19,hybrid,8,4,42,0.75,6,4424,"Garden of the Finzi-Continis, The (Giardino dei Finzi-Contini, Il) (1970)"
+pequeno,53,19,hybrid,8,4,42,0.75,7,102165,"English Teacher, The (2013)"
+pequeno,53,19,hybrid,8,4,42,0.75,8,7297,Kitchen Stories (Salmer fra kjøkkenet) (2003)
+pequeno,53,19,hybrid,8,4,42,0.75,9,5466,My Wife is an Actress (Ma Femme est une Actrice) (2001)
+pequeno,53,19,hybrid,8,4,42,0.75,10,43744,Imagine Me & You (2005)
+nuevo,-1,0,hybrid,8,4,42,0.75,1,318,"Shawshank Redemption, The (1994)"
+nuevo,-1,0,hybrid,8,4,42,0.75,2,858,"Godfather, The (1972)"
+nuevo,-1,0,hybrid,8,4,42,0.75,3,2959,Fight Club (1999)
+nuevo,-1,0,hybrid,8,4,42,0.75,4,260,Star Wars: Episode IV - A New Hope (1977)
+nuevo,-1,0,hybrid,8,4,42,0.75,5,50,"Usual Suspects, The (1995)"
+nuevo,-1,0,hybrid,8,4,42,0.75,6,1221,"Godfather: Part II, The (1974)"
+nuevo,-1,0,hybrid,8,4,42,0.75,7,1197,"Princess Bride, The (1987)"
+nuevo,-1,0,hybrid,8,4,42,0.75,8,1213,Goodfellas (1990)
+nuevo,-1,0,hybrid,8,4,42,0.75,9,527,Schindler's List (1993)
+nuevo,-1,0,hybrid,8,4,42,0.75,10,58559,"Dark Knight, The (2008)"
+amplio,414,2697,collaborative,8,4,83,1.0,1,56336,Wrong Turn 2: Dead End (2007)
+amplio,414,2697,collaborative,8,4,83,1.0,2,82088,Vincent Wants to Sea (Vincent will meer) (2010)
+amplio,414,2697,collaborative,8,4,83,1.0,3,118512,Bring It On: In It To Win It (2007)
+amplio,414,2697,collaborative,8,4,83,1.0,4,26736,Riki-Oh: The Story of Ricky (Lik Wong) (1991)
+amplio,414,2697,collaborative,8,4,83,1.0,5,6965,Journeys with George (2002)
+amplio,414,2697,collaborative,8,4,83,1.0,6,115203,"Culture High, The (2014)"
+amplio,414,2697,collaborative,8,4,83,1.0,7,4860,Making the Grade (1984)
+amplio,414,2697,collaborative,8,4,83,1.0,8,33124,Before the Fall (NaPolA - Elite für den Führer) (2004)
+amplio,414,2697,collaborative,8,4,83,1.0,9,3648,"Abominable Snowman, The (Abominable Snowman of the Himalayas, The) (1957)"
+amplio,414,2697,collaborative,8,4,83,1.0,10,1859,Taste of Cherry (Ta'm e guilass) (1997)
+pequeno,53,19,collaborative,8,4,83,1.0,1,33310,"Common Thread, A (a.k.a. Sequins) (Brodeuses) (2004)"
+pequeno,53,19,collaborative,8,4,83,1.0,2,2908,Boys Don't Cry (1999)
+pequeno,53,19,collaborative,8,4,83,1.0,3,74532,Cop Out (2010)
+pequeno,53,19,collaborative,8,4,83,1.0,4,1515,Volcano (1997)
+pequeno,53,19,collaborative,8,4,83,1.0,5,2364,"Godzilla 1985: The Legend Is Reborn (Gojira) (Godzilla) (Return of Godzilla, The) (1984)"
+pequeno,53,19,collaborative,8,4,83,1.0,6,65601,My Bloody Valentine 3-D (2009)
+pequeno,53,19,collaborative,8,4,83,1.0,7,103085,Rapture-Palooza (2013)
+pequeno,53,19,collaborative,8,4,83,1.0,8,5799,Exodus (1960)
+pequeno,53,19,collaborative,8,4,83,1.0,9,126577,"Daddy, I'm A Zombie (2012)"
+pequeno,53,19,collaborative,8,4,83,1.0,10,4500,Drowning by Numbers (1988)
+nuevo,-1,0,collaborative,8,4,83,1.0,1,318,"Shawshank Redemption, The (1994)"
+nuevo,-1,0,collaborative,8,4,83,1.0,2,858,"Godfather, The (1972)"
+nuevo,-1,0,collaborative,8,4,83,1.0,3,2959,Fight Club (1999)
+nuevo,-1,0,collaborative,8,4,83,1.0,4,260,Star Wars: Episode IV - A New Hope (1977)
+nuevo,-1,0,collaborative,8,4,83,1.0,5,50,"Usual Suspects, The (1995)"
+nuevo,-1,0,collaborative,8,4,83,1.0,6,1221,"Godfather: Part II, The (1974)"
+nuevo,-1,0,collaborative,8,4,83,1.0,7,1197,"Princess Bride, The (1987)"
+nuevo,-1,0,collaborative,8,4,83,1.0,8,1213,Goodfellas (1990)
+nuevo,-1,0,collaborative,8,4,83,1.0,9,527,Schindler's List (1993)
+nuevo,-1,0,collaborative,8,4,83,1.0,10,58559,"Dark Knight, The (2008)"
+amplio,414,2697,hybrid,8,4,83,0.25,1,4289,"City of Women, The (Città delle donne, La) (1980)"
+amplio,414,2697,hybrid,8,4,83,0.25,2,1904,Henry Fool (1997)
+amplio,414,2697,hybrid,8,4,83,0.25,3,73681,"Concert, Le (2009)"
+amplio,414,2697,hybrid,8,4,83,0.25,4,34523,The Chumscrubber (2005)
+amplio,414,2697,hybrid,8,4,83,0.25,5,5840,"My Mother's Castle (Château de ma mère, Le) (1990)"
+amplio,414,2697,hybrid,8,4,83,0.25,6,3537,Where the Money Is (2000)
+amplio,414,2697,hybrid,8,4,83,0.25,7,103865,Revenge for Jolly! (2012)
+amplio,414,2697,hybrid,8,4,83,0.25,8,156,Blue in the Face (1995)
+amplio,414,2697,hybrid,8,4,83,0.25,9,55207,Cashback (2004)
+amplio,414,2697,hybrid,8,4,83,0.25,10,50842,"Boss of It All, The (Direktøren for det hele) (2006)"
+pequeno,53,19,hybrid,8,4,83,0.25,1,1888,Hope Floats (1998)
+pequeno,53,19,hybrid,8,4,83,0.25,2,86817,Something Borrowed (2011)
+pequeno,53,19,hybrid,8,4,83,0.25,3,53318,Cashback (2006)
+pequeno,53,19,hybrid,8,4,83,0.25,4,96975,LOL (2012)
+pequeno,53,19,hybrid,8,4,83,0.25,5,78174,Sex and the City 2 (2010)
+pequeno,53,19,hybrid,8,4,83,0.25,6,6241,Pauline at the Beach (Pauline à la Plage) (1983)
+pequeno,53,19,hybrid,8,4,83,0.25,7,6993,Hannah and Her Sisters (1986)
+pequeno,53,19,hybrid,8,4,83,0.25,8,6344,101 Reykjavik (101 Reykjavík) (2000)
+pequeno,53,19,hybrid,8,4,83,0.25,9,178615,Front Cover (2016)
+pequeno,53,19,hybrid,8,4,83,0.25,10,49284,10 Items or Less (2006)
+nuevo,-1,0,hybrid,8,4,83,0.25,1,318,"Shawshank Redemption, The (1994)"
+nuevo,-1,0,hybrid,8,4,83,0.25,2,858,"Godfather, The (1972)"
+nuevo,-1,0,hybrid,8,4,83,0.25,3,2959,Fight Club (1999)
+nuevo,-1,0,hybrid,8,4,83,0.25,4,260,Star Wars: Episode IV - A New Hope (1977)
+nuevo,-1,0,hybrid,8,4,83,0.25,5,50,"Usual Suspects, The (1995)"
+nuevo,-1,0,hybrid,8,4,83,0.25,6,1221,"Godfather: Part II, The (1974)"
+nuevo,-1,0,hybrid,8,4,83,0.25,7,1197,"Princess Bride, The (1987)"
+nuevo,-1,0,hybrid,8,4,83,0.25,8,1213,Goodfellas (1990)
+nuevo,-1,0,hybrid,8,4,83,0.25,9,527,Schindler's List (1993)
+nuevo,-1,0,hybrid,8,4,83,0.25,10,58559,"Dark Knight, The (2008)"
+amplio,414,2697,hybrid,8,4,83,0.75,1,82088,Vincent Wants to Sea (Vincent will meer) (2010)
+amplio,414,2697,hybrid,8,4,83,0.75,2,26928,"Summer's Tale, A (Conte d'été) (1996)"
+amplio,414,2697,hybrid,8,4,83,0.75,3,1859,Taste of Cherry (Ta'm e guilass) (1997)
+amplio,414,2697,hybrid,8,4,83,0.75,4,103624,Fruitvale Station (2013)
+amplio,414,2697,hybrid,8,4,83,0.75,5,65193,Wild Child (2008)
+amplio,414,2697,hybrid,8,4,83,0.75,6,118512,Bring It On: In It To Win It (2007)
+amplio,414,2697,hybrid,8,4,83,0.75,7,4289,"City of Women, The (Città delle donne, La) (1980)"
+amplio,414,2697,hybrid,8,4,83,0.75,8,1904,Henry Fool (1997)
+amplio,414,2697,hybrid,8,4,83,0.75,9,56336,Wrong Turn 2: Dead End (2007)
+amplio,414,2697,hybrid,8,4,83,0.75,10,73681,"Concert, Le (2009)"
+pequeno,53,19,hybrid,8,4,83,0.75,1,33310,"Common Thread, A (a.k.a. Sequins) (Brodeuses) (2004)"
+pequeno,53,19,hybrid,8,4,83,0.75,2,4500,Drowning by Numbers (1988)
+pequeno,53,19,hybrid,8,4,83,0.75,3,2908,Boys Don't Cry (1999)
+pequeno,53,19,hybrid,8,4,83,0.75,4,1515,Volcano (1997)
+pequeno,53,19,hybrid,8,4,83,0.75,5,1888,Hope Floats (1998)
+pequeno,53,19,hybrid,8,4,83,0.75,6,2342,Hard Core Logo (1996)
+pequeno,53,19,hybrid,8,4,83,0.75,7,3480,Lucas (1986)
+pequeno,53,19,hybrid,8,4,83,0.75,8,3263,White Men Can't Jump (1992)
+pequeno,53,19,hybrid,8,4,83,0.75,9,74532,Cop Out (2010)
+pequeno,53,19,hybrid,8,4,83,0.75,10,86817,Something Borrowed (2011)
+nuevo,-1,0,hybrid,8,4,83,0.75,1,318,"Shawshank Redemption, The (1994)"
+nuevo,-1,0,hybrid,8,4,83,0.75,2,858,"Godfather, The (1972)"
+nuevo,-1,0,hybrid,8,4,83,0.75,3,2959,Fight Club (1999)
+nuevo,-1,0,hybrid,8,4,83,0.75,4,260,Star Wars: Episode IV - A New Hope (1977)
+nuevo,-1,0,hybrid,8,4,83,0.75,5,50,"Usual Suspects, The (1995)"
+nuevo,-1,0,hybrid,8,4,83,0.75,6,1221,"Godfather: Part II, The (1974)"
+nuevo,-1,0,hybrid,8,4,83,0.75,7,1197,"Princess Bride, The (1987)"
+nuevo,-1,0,hybrid,8,4,83,0.75,8,1213,Goodfellas (1990)
+nuevo,-1,0,hybrid,8,4,83,0.75,9,527,Schindler's List (1993)
+nuevo,-1,0,hybrid,8,4,83,0.75,10,58559,"Dark Knight, The (2008)"
+amplio,414,2697,collaborative,20,12,17,1.0,1,1203,12 Angry Men (1957)
+amplio,414,2697,collaborative,20,12,17,1.0,2,2324,Life Is Beautiful (La Vita è bella) (1997)
+amplio,414,2697,collaborative,20,12,17,1.0,3,92259,Intouchables (2011)
+amplio,414,2697,collaborative,20,12,17,1.0,4,1258,"Shining, The (1980)"
+amplio,414,2697,collaborative,20,12,17,1.0,5,914,My Fair Lady (1964)
+amplio,414,2697,collaborative,20,12,17,1.0,6,1219,Psycho (1960)
+amplio,414,2697,collaborative,20,12,17,1.0,7,246,Hoop Dreams (1994)
+amplio,414,2697,collaborative,20,12,17,1.0,8,1230,Annie Hall (1977)
+amplio,414,2697,collaborative,20,12,17,1.0,9,31658,Howl's Moving Castle (Hauru no ugoku shiro) (2004)
+amplio,414,2697,collaborative,20,12,17,1.0,10,1212,"Third Man, The (1949)"
+pequeno,53,19,collaborative,20,12,17,1.0,1,168,First Knight (1995)
+pequeno,53,19,collaborative,20,12,17,1.0,2,3623,Mission: Impossible II (2000)
+pequeno,53,19,collaborative,20,12,17,1.0,3,185,"Net, The (1995)"
+pequeno,53,19,collaborative,20,12,17,1.0,4,3593,Battlefield Earth (2000)
+pequeno,53,19,collaborative,20,12,17,1.0,5,3863,"Cell, The (2000)"
+pequeno,53,19,collaborative,20,12,17,1.0,6,2471,Crocodile Dundee II (1988)
+pequeno,53,19,collaborative,20,12,17,1.0,7,1969,"Nightmare on Elm Street 2: Freddy's Revenge, A (1985)"
+pequeno,53,19,collaborative,20,12,17,1.0,8,1831,Lost in Space (1998)
+pequeno,53,19,collaborative,20,12,17,1.0,9,4732,Bubble Boy (2001)
+pequeno,53,19,collaborative,20,12,17,1.0,10,6794,Beethoven's 2nd (1993)
+nuevo,-1,0,collaborative,20,12,17,1.0,1,318,"Shawshank Redemption, The (1994)"
+nuevo,-1,0,collaborative,20,12,17,1.0,2,858,"Godfather, The (1972)"
+nuevo,-1,0,collaborative,20,12,17,1.0,3,2959,Fight Club (1999)
+nuevo,-1,0,collaborative,20,12,17,1.0,4,260,Star Wars: Episode IV - A New Hope (1977)
+nuevo,-1,0,collaborative,20,12,17,1.0,5,50,"Usual Suspects, The (1995)"
+nuevo,-1,0,collaborative,20,12,17,1.0,6,1221,"Godfather: Part II, The (1974)"
+nuevo,-1,0,collaborative,20,12,17,1.0,7,1197,"Princess Bride, The (1987)"
+nuevo,-1,0,collaborative,20,12,17,1.0,8,1213,Goodfellas (1990)
+nuevo,-1,0,collaborative,20,12,17,1.0,9,527,Schindler's List (1993)
+nuevo,-1,0,collaborative,20,12,17,1.0,10,58559,"Dark Knight, The (2008)"
+amplio,414,2697,hybrid,20,12,17,0.25,1,92259,Intouchables (2011)
+amplio,414,2697,hybrid,20,12,17,0.25,2,1300,My Life as a Dog (Mitt liv som hund) (1985)
+amplio,414,2697,hybrid,20,12,17,0.25,3,6001,"King of Comedy, The (1983)"
+amplio,414,2697,hybrid,20,12,17,0.25,4,5339,Husbands and Wives (1992)
+amplio,414,2697,hybrid,20,12,17,0.25,5,1279,Night on Earth (1991)
+amplio,414,2697,hybrid,20,12,17,0.25,6,3925,Stranger Than Paradise (1984)
+amplio,414,2697,hybrid,20,12,17,0.25,7,272,"Madness of King George, The (1994)"
+amplio,414,2697,hybrid,20,12,17,0.25,8,4759,Two Can Play That Game (2001)
+amplio,414,2697,hybrid,20,12,17,0.25,9,898,"Philadelphia Story, The (1940)"
+amplio,414,2697,hybrid,20,12,17,0.25,10,26838,"Snapper, The (1993)"
+pequeno,53,19,hybrid,20,12,17,0.25,1,3774,House Party 2 (1991)
+pequeno,53,19,hybrid,20,12,17,0.25,2,195,Something to Talk About (1995)
+pequeno,53,19,hybrid,20,12,17,0.25,3,45501,"Break-Up, The (2006)"
+pequeno,53,19,hybrid,20,12,17,0.25,4,103027,Much Ado About Nothing (2012)
+pequeno,53,19,hybrid,20,12,17,0.25,5,7023,"Wedding Banquet, The (Xi yan) (1993)"
+pequeno,53,19,hybrid,20,12,17,0.25,6,7707,"He Said, She Said (1991)"
+pequeno,53,19,hybrid,20,12,17,0.25,7,78174,Sex and the City 2 (2010)
+pequeno,53,19,hybrid,20,12,17,0.25,8,1885,"Opposite of Sex, The (1998)"
+pequeno,53,19,hybrid,20,12,17,0.25,9,539,Sleepless in Seattle (1993)
+pequeno,53,19,hybrid,20,12,17,0.25,10,1888,Hope Floats (1998)
+nuevo,-1,0,hybrid,20,12,17,0.25,1,318,"Shawshank Redemption, The (1994)"
+nuevo,-1,0,hybrid,20,12,17,0.25,2,858,"Godfather, The (1972)"
+nuevo,-1,0,hybrid,20,12,17,0.25,3,2959,Fight Club (1999)
+nuevo,-1,0,hybrid,20,12,17,0.25,4,260,Star Wars: Episode IV - A New Hope (1977)
+nuevo,-1,0,hybrid,20,12,17,0.25,5,50,"Usual Suspects, The (1995)"
+nuevo,-1,0,hybrid,20,12,17,0.25,6,1221,"Godfather: Part II, The (1974)"
+nuevo,-1,0,hybrid,20,12,17,0.25,7,1197,"Princess Bride, The (1987)"
+nuevo,-1,0,hybrid,20,12,17,0.25,8,1213,Goodfellas (1990)
+nuevo,-1,0,hybrid,20,12,17,0.25,9,527,Schindler's List (1993)
+nuevo,-1,0,hybrid,20,12,17,0.25,10,58559,"Dark Knight, The (2008)"
+amplio,414,2697,hybrid,20,12,17,0.75,1,1203,12 Angry Men (1957)
+amplio,414,2697,hybrid,20,12,17,0.75,2,92259,Intouchables (2011)
+amplio,414,2697,hybrid,20,12,17,0.75,3,2324,Life Is Beautiful (La Vita è bella) (1997)
+amplio,414,2697,hybrid,20,12,17,0.75,4,898,"Philadelphia Story, The (1940)"
+amplio,414,2697,hybrid,20,12,17,0.75,5,1244,Manhattan (1979)
+amplio,414,2697,hybrid,20,12,17,0.75,6,926,All About Eve (1950)
+amplio,414,2697,hybrid,20,12,17,0.75,7,914,My Fair Lady (1964)
+amplio,414,2697,hybrid,20,12,17,0.75,8,2360,"Celebration, The (Festen) (1998)"
+amplio,414,2697,hybrid,20,12,17,0.75,9,44555,"Lives of Others, The (Das leben der Anderen) (2006)"
+amplio,414,2697,hybrid,20,12,17,0.75,10,306,Three Colors: Red (Trois couleurs: Rouge) (1994)
+pequeno,53,19,hybrid,20,12,17,0.75,1,168,First Knight (1995)
+pequeno,53,19,hybrid,20,12,17,0.75,2,3774,House Party 2 (1991)
+pequeno,53,19,hybrid,20,12,17,0.75,3,3824,Autumn in New York (2000)
+pequeno,53,19,hybrid,20,12,17,0.75,4,185,"Net, The (1995)"
+pequeno,53,19,hybrid,20,12,17,0.75,5,4639,America's Sweethearts (2001)
+pequeno,53,19,hybrid,20,12,17,0.75,6,3623,Mission: Impossible II (2000)
+pequeno,53,19,hybrid,20,12,17,0.75,7,3863,"Cell, The (2000)"
+pequeno,53,19,hybrid,20,12,17,0.75,8,1556,Speed 2: Cruise Control (1997)
+pequeno,53,19,hybrid,20,12,17,0.75,9,186,Nine Months (1995)
+pequeno,53,19,hybrid,20,12,17,0.75,10,2724,Runaway Bride (1999)
+nuevo,-1,0,hybrid,20,12,17,0.75,1,318,"Shawshank Redemption, The (1994)"
+nuevo,-1,0,hybrid,20,12,17,0.75,2,858,"Godfather, The (1972)"
+nuevo,-1,0,hybrid,20,12,17,0.75,3,2959,Fight Club (1999)
+nuevo,-1,0,hybrid,20,12,17,0.75,4,260,Star Wars: Episode IV - A New Hope (1977)
+nuevo,-1,0,hybrid,20,12,17,0.75,5,50,"Usual Suspects, The (1995)"
+nuevo,-1,0,hybrid,20,12,17,0.75,6,1221,"Godfather: Part II, The (1974)"
+nuevo,-1,0,hybrid,20,12,17,0.75,7,1197,"Princess Bride, The (1987)"
+nuevo,-1,0,hybrid,20,12,17,0.75,8,1213,Goodfellas (1990)
+nuevo,-1,0,hybrid,20,12,17,0.75,9,527,Schindler's List (1993)
+nuevo,-1,0,hybrid,20,12,17,0.75,10,58559,"Dark Knight, The (2008)"
+amplio,414,2697,collaborative,20,12,42,1.0,1,2324,Life Is Beautiful (La Vita è bella) (1997)
+amplio,414,2697,collaborative,20,12,42,1.0,2,1203,12 Angry Men (1957)
+amplio,414,2697,collaborative,20,12,42,1.0,3,1219,Psycho (1960)
+amplio,414,2697,collaborative,20,12,42,1.0,4,1230,Annie Hall (1977)
+amplio,414,2697,collaborative,20,12,42,1.0,5,246,Hoop Dreams (1994)
+amplio,414,2697,collaborative,20,12,42,1.0,6,914,My Fair Lady (1964)
+amplio,414,2697,collaborative,20,12,42,1.0,7,1258,"Shining, The (1980)"
+amplio,414,2697,collaborative,20,12,42,1.0,8,922,Sunset Blvd. (a.k.a. Sunset Boulevard) (1950)
+amplio,414,2697,collaborative,20,12,42,1.0,9,31658,Howl's Moving Castle (Hauru no ugoku shiro) (2004)
+amplio,414,2697,collaborative,20,12,42,1.0,10,74458,Shutter Island (2010)
+pequeno,53,19,collaborative,20,12,42,1.0,1,858,"Godfather, The (1972)"
+pequeno,53,19,collaborative,20,12,42,1.0,2,1208,Apocalypse Now (1979)
+pequeno,53,19,collaborative,20,12,42,1.0,3,1230,Annie Hall (1977)
+pequeno,53,19,collaborative,20,12,42,1.0,4,1954,Rocky (1976)
+pequeno,53,19,collaborative,20,12,42,1.0,5,63082,Slumdog Millionaire (2008)
+pequeno,53,19,collaborative,20,12,42,1.0,6,924,2001: A Space Odyssey (1968)
+pequeno,53,19,collaborative,20,12,42,1.0,7,1213,Goodfellas (1990)
+pequeno,53,19,collaborative,20,12,42,1.0,8,41285,Match Point (2005)
+pequeno,53,19,collaborative,20,12,42,1.0,9,47,Seven (a.k.a. Se7en) (1995)
+pequeno,53,19,collaborative,20,12,42,1.0,10,8528,Dodgeball: A True Underdog Story (2004)
+nuevo,-1,0,collaborative,20,12,42,1.0,1,318,"Shawshank Redemption, The (1994)"
+nuevo,-1,0,collaborative,20,12,42,1.0,2,858,"Godfather, The (1972)"
+nuevo,-1,0,collaborative,20,12,42,1.0,3,2959,Fight Club (1999)
+nuevo,-1,0,collaborative,20,12,42,1.0,4,260,Star Wars: Episode IV - A New Hope (1977)
+nuevo,-1,0,collaborative,20,12,42,1.0,5,50,"Usual Suspects, The (1995)"
+nuevo,-1,0,collaborative,20,12,42,1.0,6,1221,"Godfather: Part II, The (1974)"
+nuevo,-1,0,collaborative,20,12,42,1.0,7,1197,"Princess Bride, The (1987)"
+nuevo,-1,0,collaborative,20,12,42,1.0,8,1213,Goodfellas (1990)
+nuevo,-1,0,collaborative,20,12,42,1.0,9,527,Schindler's List (1993)
+nuevo,-1,0,collaborative,20,12,42,1.0,10,58559,"Dark Knight, The (2008)"
+amplio,414,2697,hybrid,20,12,42,0.25,1,92259,Intouchables (2011)
+amplio,414,2697,hybrid,20,12,42,0.25,2,1300,My Life as a Dog (Mitt liv som hund) (1985)
+amplio,414,2697,hybrid,20,12,42,0.25,3,6001,"King of Comedy, The (1983)"
+amplio,414,2697,hybrid,20,12,42,0.25,4,1446,Kolya (Kolja) (1996)
+amplio,414,2697,hybrid,20,12,42,0.25,5,1184,Mediterraneo (1991)
+amplio,414,2697,hybrid,20,12,42,0.25,6,3925,Stranger Than Paradise (1984)
+amplio,414,2697,hybrid,20,12,42,0.25,7,1279,Night on Earth (1991)
+amplio,414,2697,hybrid,20,12,42,0.25,8,1958,Terms of Endearment (1983)
+amplio,414,2697,hybrid,20,12,42,0.25,9,77800,Four Lions (2010)
+amplio,414,2697,hybrid,20,12,42,0.25,10,272,"Madness of King George, The (1994)"
+pequeno,53,19,hybrid,20,12,42,0.25,1,5673,Punch-Drunk Love (2002)
+pequeno,53,19,hybrid,20,12,42,0.25,2,5377,About a Boy (2002)
+pequeno,53,19,hybrid,20,12,42,0.25,3,5902,Adaptation (2002)
+pequeno,53,19,hybrid,20,12,42,0.25,4,1244,Manhattan (1979)
+pequeno,53,19,hybrid,20,12,42,0.25,5,5829,Men with Brooms (2002)
+pequeno,53,19,hybrid,20,12,42,0.25,6,69757,(500) Days of Summer (2009)
+pequeno,53,19,hybrid,20,12,42,0.25,7,8784,Garden State (2004)
+pequeno,53,19,hybrid,20,12,42,0.25,8,2248,Say Anything... (1989)
+pequeno,53,19,hybrid,20,12,42,0.25,9,1247,"Graduate, The (1967)"
+pequeno,53,19,hybrid,20,12,42,0.25,10,43684,Something New (2006)
+nuevo,-1,0,hybrid,20,12,42,0.25,1,318,"Shawshank Redemption, The (1994)"
+nuevo,-1,0,hybrid,20,12,42,0.25,2,858,"Godfather, The (1972)"
+nuevo,-1,0,hybrid,20,12,42,0.25,3,2959,Fight Club (1999)
+nuevo,-1,0,hybrid,20,12,42,0.25,4,260,Star Wars: Episode IV - A New Hope (1977)
+nuevo,-1,0,hybrid,20,12,42,0.25,5,50,"Usual Suspects, The (1995)"
+nuevo,-1,0,hybrid,20,12,42,0.25,6,1221,"Godfather: Part II, The (1974)"
+nuevo,-1,0,hybrid,20,12,42,0.25,7,1197,"Princess Bride, The (1987)"
+nuevo,-1,0,hybrid,20,12,42,0.25,8,1213,Goodfellas (1990)
+nuevo,-1,0,hybrid,20,12,42,0.25,9,527,Schindler's List (1993)
+nuevo,-1,0,hybrid,20,12,42,0.25,10,58559,"Dark Knight, The (2008)"
+amplio,414,2697,hybrid,20,12,42,0.75,1,1203,12 Angry Men (1957)
+amplio,414,2697,hybrid,20,12,42,0.75,2,2324,Life Is Beautiful (La Vita è bella) (1997)
+amplio,414,2697,hybrid,20,12,42,0.75,3,92259,Intouchables (2011)
+amplio,414,2697,hybrid,20,12,42,0.75,4,898,"Philadelphia Story, The (1940)"
+amplio,414,2697,hybrid,20,12,42,0.75,5,3462,Modern Times (1936)
+amplio,414,2697,hybrid,20,12,42,0.75,6,914,My Fair Lady (1964)
+amplio,414,2697,hybrid,20,12,42,0.75,7,1230,Annie Hall (1977)
+amplio,414,2697,hybrid,20,12,42,0.75,8,1244,Manhattan (1979)
+amplio,414,2697,hybrid,20,12,42,0.75,9,44555,"Lives of Others, The (Das leben der Anderen) (2006)"
+amplio,414,2697,hybrid,20,12,42,0.75,10,3266,Man Bites Dog (C'est arrivé près de chez vous) (1992)
+pequeno,53,19,hybrid,20,12,42,0.75,1,1230,Annie Hall (1977)
+pequeno,53,19,hybrid,20,12,42,0.75,2,858,"Godfather, The (1972)"
+pequeno,53,19,hybrid,20,12,42,0.75,3,5673,Punch-Drunk Love (2002)
+pequeno,53,19,hybrid,20,12,42,0.75,4,63082,Slumdog Millionaire (2008)
+pequeno,53,19,hybrid,20,12,42,0.75,5,1954,Rocky (1976)
+pequeno,53,19,hybrid,20,12,42,0.75,6,41285,Match Point (2005)
+pequeno,53,19,hybrid,20,12,42,0.75,7,5377,About a Boy (2002)
+pequeno,53,19,hybrid,20,12,42,0.75,8,1208,Apocalypse Now (1979)
+pequeno,53,19,hybrid,20,12,42,0.75,9,2671,Notting Hill (1999)
+pequeno,53,19,hybrid,20,12,42,0.75,10,106782,"Wolf of Wall Street, The (2013)"
+nuevo,-1,0,hybrid,20,12,42,0.75,1,318,"Shawshank Redemption, The (1994)"
+nuevo,-1,0,hybrid,20,12,42,0.75,2,858,"Godfather, The (1972)"
+nuevo,-1,0,hybrid,20,12,42,0.75,3,2959,Fight Club (1999)
+nuevo,-1,0,hybrid,20,12,42,0.75,4,260,Star Wars: Episode IV - A New Hope (1977)
+nuevo,-1,0,hybrid,20,12,42,0.75,5,50,"Usual Suspects, The (1995)"
+nuevo,-1,0,hybrid,20,12,42,0.75,6,1221,"Godfather: Part II, The (1974)"
+nuevo,-1,0,hybrid,20,12,42,0.75,7,1197,"Princess Bride, The (1987)"
+nuevo,-1,0,hybrid,20,12,42,0.75,8,1213,Goodfellas (1990)
+nuevo,-1,0,hybrid,20,12,42,0.75,9,527,Schindler's List (1993)
+nuevo,-1,0,hybrid,20,12,42,0.75,10,58559,"Dark Knight, The (2008)"
+amplio,414,2697,collaborative,20,12,83,1.0,1,1203,12 Angry Men (1957)
+amplio,414,2697,collaborative,20,12,83,1.0,2,2324,Life Is Beautiful (La Vita è bella) (1997)
+amplio,414,2697,collaborative,20,12,83,1.0,3,1219,Psycho (1960)
+amplio,414,2697,collaborative,20,12,83,1.0,4,92259,Intouchables (2011)
+amplio,414,2697,collaborative,20,12,83,1.0,5,1230,Annie Hall (1977)
+amplio,414,2697,collaborative,20,12,83,1.0,6,1258,"Shining, The (1980)"
+amplio,414,2697,collaborative,20,12,83,1.0,7,3083,All About My Mother (Todo sobre mi madre) (1999)
+amplio,414,2697,collaborative,20,12,83,1.0,8,3030,Yojimbo (1961)
+amplio,414,2697,collaborative,20,12,83,1.0,9,914,My Fair Lady (1964)
+amplio,414,2697,collaborative,20,12,83,1.0,10,898,"Philadelphia Story, The (1940)"
+pequeno,53,19,collaborative,20,12,83,1.0,1,3826,Hollow Man (2000)
+pequeno,53,19,collaborative,20,12,83,1.0,2,2710,"Blair Witch Project, The (1999)"
+pequeno,53,19,collaborative,20,12,83,1.0,3,374,Richie Rich (1994)
+pequeno,53,19,collaborative,20,12,83,1.0,4,3774,House Party 2 (1991)
+pequeno,53,19,collaborative,20,12,83,1.0,5,455,Free Willy (1993)
+pequeno,53,19,collaborative,20,12,83,1.0,6,5943,Maid in Manhattan (2002)
+pequeno,53,19,collaborative,20,12,83,1.0,7,1644,I Know What You Did Last Summer (1997)
+pequeno,53,19,collaborative,20,12,83,1.0,8,762,Striptease (1996)
+pequeno,53,19,collaborative,20,12,83,1.0,9,432,City Slickers II: The Legend of Curly's Gold (1994)
+pequeno,53,19,collaborative,20,12,83,1.0,10,7367,"Ladykillers, The (2004)"
+nuevo,-1,0,collaborative,20,12,83,1.0,1,318,"Shawshank Redemption, The (1994)"
+nuevo,-1,0,collaborative,20,12,83,1.0,2,858,"Godfather, The (1972)"
+nuevo,-1,0,collaborative,20,12,83,1.0,3,2959,Fight Club (1999)
+nuevo,-1,0,collaborative,20,12,83,1.0,4,260,Star Wars: Episode IV - A New Hope (1977)
+nuevo,-1,0,collaborative,20,12,83,1.0,5,50,"Usual Suspects, The (1995)"
+nuevo,-1,0,collaborative,20,12,83,1.0,6,1221,"Godfather: Part II, The (1974)"
+nuevo,-1,0,collaborative,20,12,83,1.0,7,1197,"Princess Bride, The (1987)"
+nuevo,-1,0,collaborative,20,12,83,1.0,8,1213,Goodfellas (1990)
+nuevo,-1,0,collaborative,20,12,83,1.0,9,527,Schindler's List (1993)
+nuevo,-1,0,collaborative,20,12,83,1.0,10,58559,"Dark Knight, The (2008)"
+amplio,414,2697,hybrid,20,12,83,0.25,1,92259,Intouchables (2011)
+amplio,414,2697,hybrid,20,12,83,0.25,2,1446,Kolya (Kolja) (1996)
+amplio,414,2697,hybrid,20,12,83,0.25,3,3925,Stranger Than Paradise (1984)
+amplio,414,2697,hybrid,20,12,83,0.25,4,5745,"Four Seasons, The (1981)"
+amplio,414,2697,hybrid,20,12,83,0.25,5,324,"Sum of Us, The (1994)"
+amplio,414,2697,hybrid,20,12,83,0.25,6,5339,Husbands and Wives (1992)
+amplio,414,2697,hybrid,20,12,83,0.25,7,55280,Lars and the Real Girl (2007)
+amplio,414,2697,hybrid,20,12,83,0.25,8,140289,Men & Chicken (2015)
+amplio,414,2697,hybrid,20,12,83,0.25,9,50842,"Boss of It All, The (Direktøren for det hele) (2006)"
+amplio,414,2697,hybrid,20,12,83,0.25,10,2577,Metroland (1997)
+pequeno,53,19,hybrid,20,12,83,0.25,1,3774,House Party 2 (1991)
+pequeno,53,19,hybrid,20,12,83,0.25,2,3825,Coyote Ugly (2000)
+pequeno,53,19,hybrid,20,12,83,0.25,3,8969,Bridget Jones: The Edge of Reason (2004)
+pequeno,53,19,hybrid,20,12,83,0.25,4,2369,Desperately Seeking Susan (1985)
+pequeno,53,19,hybrid,20,12,83,0.25,5,62155,Nick and Norah's Infinite Playlist (2008)
+pequeno,53,19,hybrid,20,12,83,0.25,6,6218,Bend It Like Beckham (2002)
+pequeno,53,19,hybrid,20,12,83,0.25,7,104863,What If (2013)
+pequeno,53,19,hybrid,20,12,83,0.25,8,56941,P.S. I Love You (2007)
+pequeno,53,19,hybrid,20,12,83,0.25,9,134528,Aloha (2015)
+pequeno,53,19,hybrid,20,12,83,0.25,10,11,"American President, The (1995)"
+nuevo,-1,0,hybrid,20,12,83,0.25,1,318,"Shawshank Redemption, The (1994)"
+nuevo,-1,0,hybrid,20,12,83,0.25,2,858,"Godfather, The (1972)"
+nuevo,-1,0,hybrid,20,12,83,0.25,3,2959,Fight Club (1999)
+nuevo,-1,0,hybrid,20,12,83,0.25,4,260,Star Wars: Episode IV - A New Hope (1977)
+nuevo,-1,0,hybrid,20,12,83,0.25,5,50,"Usual Suspects, The (1995)"
+nuevo,-1,0,hybrid,20,12,83,0.25,6,1221,"Godfather: Part II, The (1974)"
+nuevo,-1,0,hybrid,20,12,83,0.25,7,1197,"Princess Bride, The (1987)"
+nuevo,-1,0,hybrid,20,12,83,0.25,8,1213,Goodfellas (1990)
+nuevo,-1,0,hybrid,20,12,83,0.25,9,527,Schindler's List (1993)
+nuevo,-1,0,hybrid,20,12,83,0.25,10,58559,"Dark Knight, The (2008)"
+amplio,414,2697,hybrid,20,12,83,0.75,1,1203,12 Angry Men (1957)
+amplio,414,2697,hybrid,20,12,83,0.75,2,2324,Life Is Beautiful (La Vita è bella) (1997)
+amplio,414,2697,hybrid,20,12,83,0.75,3,92259,Intouchables (2011)
+amplio,414,2697,hybrid,20,12,83,0.75,4,898,"Philadelphia Story, The (1940)"
+amplio,414,2697,hybrid,20,12,83,0.75,5,1244,Manhattan (1979)
+amplio,414,2697,hybrid,20,12,83,0.75,6,3083,All About My Mother (Todo sobre mi madre) (1999)
+amplio,414,2697,hybrid,20,12,83,0.75,7,44555,"Lives of Others, The (Das leben der Anderen) (2006)"
+amplio,414,2697,hybrid,20,12,83,0.75,8,926,All About Eve (1950)
+amplio,414,2697,hybrid,20,12,83,0.75,9,1230,Annie Hall (1977)
+amplio,414,2697,hybrid,20,12,83,0.75,10,914,My Fair Lady (1964)
+pequeno,53,19,hybrid,20,12,83,0.75,1,3774,House Party 2 (1991)
+pequeno,53,19,hybrid,20,12,83,0.75,2,3826,Hollow Man (2000)
+pequeno,53,19,hybrid,20,12,83,0.75,3,3825,Coyote Ugly (2000)
+pequeno,53,19,hybrid,20,12,83,0.75,4,5943,Maid in Manhattan (2002)
+pequeno,53,19,hybrid,20,12,83,0.75,5,168,First Knight (1995)
+pequeno,53,19,hybrid,20,12,83,0.75,6,2710,"Blair Witch Project, The (1999)"
+pequeno,53,19,hybrid,20,12,83,0.75,7,8969,Bridget Jones: The Edge of Reason (2004)
+pequeno,53,19,hybrid,20,12,83,0.75,8,2369,Desperately Seeking Susan (1985)
+pequeno,53,19,hybrid,20,12,83,0.75,9,3882,Bring It On (2000)
+pequeno,53,19,hybrid,20,12,83,0.75,10,3977,Charlie's Angels (2000)
+nuevo,-1,0,hybrid,20,12,83,0.75,1,318,"Shawshank Redemption, The (1994)"
+nuevo,-1,0,hybrid,20,12,83,0.75,2,858,"Godfather, The (1972)"
+nuevo,-1,0,hybrid,20,12,83,0.75,3,2959,Fight Club (1999)
+nuevo,-1,0,hybrid,20,12,83,0.75,4,260,Star Wars: Episode IV - A New Hope (1977)
+nuevo,-1,0,hybrid,20,12,83,0.75,5,50,"Usual Suspects, The (1995)"
+nuevo,-1,0,hybrid,20,12,83,0.75,6,1221,"Godfather: Part II, The (1974)"
+nuevo,-1,0,hybrid,20,12,83,0.75,7,1197,"Princess Bride, The (1987)"
+nuevo,-1,0,hybrid,20,12,83,0.75,8,1213,Goodfellas (1990)
+nuevo,-1,0,hybrid,20,12,83,0.75,9,527,Schindler's List (1993)
+nuevo,-1,0,hybrid,20,12,83,0.75,10,58559,"Dark Knight, The (2008)"

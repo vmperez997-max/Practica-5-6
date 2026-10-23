@@ -1,0 +1,31 @@
+movieId,title,genres,content_score,query
+103755,Turbo (2013),Adventure|Animation|Children|Comedy|Fantasy,1.0,Toy Story (1995)
+4016,"Emperor's New Groove, The (2000)",Adventure|Animation|Children|Comedy|Fantasy,1.0,Toy Story (1995)
+3754,"Adventures of Rocky and Bullwinkle, The (2000)",Adventure|Animation|Children|Comedy|Fantasy,1.0,Toy Story (1995)
+3114,Toy Story 2 (1999),Adventure|Animation|Children|Comedy|Fantasy,1.0,Toy Story (1995)
+91355,Asterix and the Vikings (Astérix et les Vikings) (2006),Adventure|Animation|Children|Comedy|Fantasy,1.0,Toy Story (1995)
+2294,Antz (1998),Adventure|Animation|Children|Comedy|Fantasy,1.0,Toy Story (1995)
+45074,"Wild, The (2006)",Adventure|Animation|Children|Comedy|Fantasy,1.0,Toy Story (1995)
+53121,Shrek the Third (2007),Adventure|Animation|Children|Comedy|Fantasy,1.0,Toy Story (1995)
+136016,The Good Dinosaur (2015),Adventure|Animation|Children|Comedy|Fantasy,1.0,Toy Story (1995)
+4886,"Monsters, Inc. (2001)",Adventure|Animation|Children|Comedy|Fantasy,1.0,Toy Story (1995)
+8656,"Short Film About Killing, A (Krótki film o zabijaniu) (1988)",Crime|Drama,1.0,"Shawshank Redemption, The (1994)"
+63768,Tattooed Life (Irezumi ichidai) (1965),Crime|Drama,1.0,"Shawshank Redemption, The (1994)"
+62250,Gomorrah (Gomorra) (2008),Crime|Drama,1.0,"Shawshank Redemption, The (1994)"
+161127,The Infiltrator (2016),Crime|Drama,1.0,"Shawshank Redemption, The (1994)"
+60753,Felon (2008),Crime|Drama,1.0,"Shawshank Redemption, The (1994)"
+1466,Donnie Brasco (1997),Crime|Drama,1.0,"Shawshank Redemption, The (1994)"
+45210,United 93 (2006),Crime|Drama,1.0,"Shawshank Redemption, The (1994)"
+43912,Freedomland (2006),Crime|Drama,1.0,"Shawshank Redemption, The (1994)"
+44301,Lights in the Dusk (Laitakaupungin valot) (2006),Crime|Drama,1.0,"Shawshank Redemption, The (1994)"
+1227,Once Upon a Time in America (1984),Crime|Drama,1.0,"Shawshank Redemption, The (1994)"
+27434,Darkness (2002),Horror|Mystery,1.0000000000000002,"Exorcist, The (1973)"
+3476,Jacob's Ladder (1990),Horror|Mystery,1.0000000000000002,"Exorcist, The (1973)"
+2898,"Dark Half, The (1993)",Horror|Mystery,1.0000000000000002,"Exorcist, The (1973)"
+1130,"Howling, The (1980)",Horror|Mystery,1.0000000000000002,"Exorcist, The (1973)"
+114707,Horns (2014),Horror|Mystery,1.0000000000000002,"Exorcist, The (1973)"
+4143,Valentine (2001),Horror|Mystery,1.0000000000000002,"Exorcist, The (1973)"
+775,Spirits of the Dead (1968),Horror|Mystery,1.0000000000000002,"Exorcist, The (1973)"
+4195,"Abominable Dr. Phibes, The (1971)",Horror|Mystery,1.0000000000000002,"Exorcist, The (1973)"
+1335,Blood Beach (1981),Horror|Mystery,1.0000000000000002,"Exorcist, The (1973)"
+6967,Dead of Night (1945),Horror|Mystery,1.0000000000000002,"Exorcist, The (1973)"

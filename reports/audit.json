@@ -1,0 +1,34 @@
+{
+  "users": 610,
+  "movies": 9742,
+  "rated_movies": 9724,
+  "ratings": 100836,
+  "density": 0.016968273253211548,
+  "min_utc": "1996-03-29 18:36:55+00:00",
+  "max_utc": "2018-09-24 14:27:30+00:00",
+  "rating_distribution": {
+    "0.5": 1370,
+    "1.0": 2811,
+    "1.5": 1791,
+    "2.0": 7551,
+    "2.5": 5550,
+    "3.0": 20047,
+    "3.5": 13136,
+    "4.0": 26818,
+    "4.5": 8551,
+    "5.0": 13211
+  },
+  "train_rows": 100226,
+  "test_rows": 610,
+  "unseen_test_items": 23,
+  "timestamp_ties_at_boundary": 94,
+  "file_sha256": {
+    "links.csv": "97ad18e4e56a09363c65676b6cb3482ce3e2cea2372a24620c1599c843325f31",
+    "movies.csv": "5a5f32dd9bb3797b8e728a1b98958789d2b13f294a69fdfbc5727f8a9611aa07",
+    "ratings.csv": "aa289ca83157595d0df6aea1be6a4ded676ddc4385472e8313a8ed9805352646",
+    "tags.csv": "92a9f8bb7916dceef6151209845788c3643f794dfa79d1feaec7121b5960399d"
+  },
+  "run_utc": "2026-10-23T10:48:18.870549+00:00",
+  "python": "3.12.14",
+  "platform": "Windows-11-10.0.26200-SP0"
+}

@@ -1,0 +1,4 @@
+profile,userId,history_size,mean_jaccard_seeds
+amplio,414,2697,0.6239316239316239
+pequeno,53,19,0.037037037037037035
+nuevo,-1,0,1.0
