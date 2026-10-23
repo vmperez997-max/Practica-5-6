@@ -8,6 +8,8 @@ El estudiante proporcionó las instrucciones completas de LAB08, LAB09 y Ejercic
 
 La solicitud final fue: «Al final de todo lo quiero en Git hub» con dicho enlace. No se utilizaron prompts adicionales del estudiante para alterar resultados.
 
+Para la revisión del informe, el estudiante indicó: «Para el pdf utiliza como base Unidad 02. Ejercicio 03 - Victor_Perez para realizar el de esta actividad». Se inspeccionó ese PDF local para adaptar tipografía, tamaño carta, colores, tablas, encabezado, pie y datos de identificación. Se conservaron los resultados de los experimentos de esta actividad.
+
 ## Verificaciones y correcciones realizadas
 
 - Se reutilizó la carpeta base ya presente; se creó un único entorno Python 3.12 con uv.

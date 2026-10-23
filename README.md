@@ -2,7 +2,9 @@
 
 **Victor Perez · Ciencia de Datos II · UASD.** Proyecto académico basado en la arquitectura docente de Edwin Ramón José Nolasco. Compara popularidad, TF-IDF de géneros, factorización y combinación híbrida sobre MovieLens Latest Small.
 
-[Informe PDF (3 páginas)](output/pdf/Informe_Recomendadores.pdf) · [Notebook ejecutado](notebooks/LAB08_LAB09.ipynb) · [Conclusión](docs/CONCLUSION.md) · [Dataset Card](docs/DATASET_CARD.md) · [System Card](docs/SYSTEM_CARD.md) · [Declaración de IA](docs/AI_USAGE.md)
+[Informe PDF (4 páginas)](output/pdf/Informe_Recomendadores.pdf) · [Notebook ejecutado](notebooks/LAB08_LAB09.ipynb) · [Conclusión](docs/CONCLUSION.md) · [Dataset Card](docs/DATASET_CARD.md) · [System Card](docs/SYSTEM_CARD.md) · [Declaración de IA](docs/AI_USAGE.md)
+
+El informe sigue el formato del documento personal «Unidad 02. Ejercicio 03 - Victor_Perez»: tamaño carta, Calibri, títulos azules, secciones numeradas, tablas con rejilla fina y encabezado/pie académico. Incluye nombre completo y matrícula de la referencia. El generador usa Calibri si está instalado y Helvetica como alternativa; no redistribuye archivos de fuentes ni el documento anterior.
 
 ## Reproducir desde cero
 
