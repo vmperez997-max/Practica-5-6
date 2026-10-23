@@ -1,0 +1,40 @@
+{
+  "seed": 2026,
+  "test_indices": [
+    797,
+    7211,
+    7902,
+    8505,
+    4668,
+    7042,
+    3650,
+    263,
+    6430,
+    3702,
+    8306,
+    1773,
+    6391,
+    1786,
+    3547,
+    9049
+  ],
+  "labels": [
+    8,
+    4,
+    9,
+    7,
+    4,
+    6,
+    1,
+    0,
+    0,
+    3,
+    6,
+    7,
+    7,
+    3,
+    5,
+    5
+  ],
+  "policy": "uniform without replacement, selected before inspecting output quality"
+}

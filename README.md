@@ -1,5 +1,7 @@
 # INF-8239 · LAB08 + LAB09 · Sistemas recomendadores
 
+**Nueva actividad:** [LAB10 / Ejercicio 06 · Autoencoder y VAE con Fashion-MNIST](generativos/README.md), con entorno TensorFlow independiente, modelos entrenados, notebook e informe.
+
 **Victor Perez · Ciencia de Datos II · UASD.** Proyecto académico basado en la arquitectura docente de Edwin Ramón José Nolasco. Compara popularidad, TF-IDF de géneros, factorización y combinación híbrida sobre MovieLens Latest Small.
 
 [Informe PDF (4 páginas)](output/pdf/Informe_Recomendadores.pdf) · [Notebook ejecutado](notebooks/LAB08_LAB09.ipynb) · [Conclusión](docs/CONCLUSION.md) · [Dataset Card](docs/DATASET_CARD.md) · [System Card](docs/SYSTEM_CARD.md) · [Declaración de IA](docs/AI_USAGE.md)

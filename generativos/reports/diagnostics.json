@@ -1,0 +1,44 @@
+{
+  "vae_generated": {
+    "mean_pairwise_mse": 0.08777331560850143,
+    "mean_pixel_std": 0.19014829397201538
+  },
+  "ae_arbitrary_prior": {
+    "mean_pairwise_mse": 0.0062761204317212105,
+    "mean_pixel_std": 0.04815707728266716
+  },
+  "heldout_16": {
+    "mean_pairwise_mse": 0.21547406911849976,
+    "mean_pixel_std": 0.29230934381484985
+  },
+  "vae_nn_mse_min": 0.0024778961669653654,
+  "vae_nn_mse_mean": 0.01021178864993999,
+  "heldout_nn_mse_mean": 0.022842067788587883,
+  "exact_pixel_copies": 0,
+  "nearest_class_counts": {
+    "T-shirt/top": 34,
+    "Trouser": 18,
+    "Pullover": 26,
+    "Dress": 8,
+    "Coat": 6,
+    "Sandal": 13,
+    "Shirt": 53,
+    "Sneaker": 40,
+    "Bag": 25,
+    "Ankle boot": 33
+  },
+  "posterior_mc_metrics": {
+    "mse": 0.03070484846830368,
+    "bce_per_pixel": 0.33318066596984863
+  },
+  "vae_kl_nats": 6.072483062744141,
+  "mean_posterior_variance": [
+    0.004493045154958963,
+    0.006280843168497086
+  ],
+  "variance_of_posterior_means": [
+    1.5796664953231812,
+    1.5665812492370605
+  ],
+  "warning": "Pixel distances and nearest classes are diagnostics, not perceptual quality, semantic diversity or privacy guarantees."
+}
