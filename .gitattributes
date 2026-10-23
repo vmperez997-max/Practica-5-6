@@ -1,6 +1,7 @@
 * text=auto
 *.pdf binary
 *.png binary
+*.keras binary
 *.ipynb text eol=lf
 *.py text eol=lf
 *.md text eol=lf

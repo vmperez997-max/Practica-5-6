@@ -1,0 +1,12 @@
+.venv/
+.uv-cache/
+.cache/
+data/
+tmp/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+!models/
+!models/*.keras
+!models/manifest.json
