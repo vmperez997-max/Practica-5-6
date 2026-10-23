@@ -1,0 +1,32 @@
+{
+  "fit_n": 384,
+  "validation_n": 96,
+  "test_n": 160,
+  "fit_end": "2026-08-03 00:00:00",
+  "validation_start": "2026-08-04 00:00:00",
+  "validation_end": "2026-09-24 00:00:00",
+  "test_start": "2026-09-25 00:00:00",
+  "dataset_sha256": "2af1858fe874f3914b0f9bfe068fd876cb716186694a6ece9a16e8c929128a01",
+  "excluded_predictors": [
+    "case_id",
+    "received_date",
+    "target",
+    "protected_group",
+    "age_band"
+  ],
+  "features": [
+    "zone",
+    "previous_incidents",
+    "infrastructure_score",
+    "exposure"
+  ],
+  "dates_are_synthetic": true,
+  "target_counts": {
+    "1": 353,
+    "0": 287
+  },
+  "groups": {
+    "G1": 396,
+    "G2": 244
+  }
+}

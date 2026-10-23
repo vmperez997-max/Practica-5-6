@@ -1,0 +1,21 @@
+{
+  "python": "3.12.14",
+  "sklearn": "1.9.1",
+  "fairlearn": "0.12.0",
+  "model_seed": 42,
+  "data_generation_seed": "not provided by teaching base",
+  "source_hashes": {
+    "src\\inf8239_u04\\data.py": "efc7c924caa240634a8643db48f78fb6ada9704d32a5ab4719d2d326258445b5",
+    "src\\inf8239_u04\\experiment.py": "1b64e3456e6f578cca408fa5ad587e8a9a5b24cd544ee8ed4c48026efe2e5d0f",
+    "src\\inf8239_u04\\fairness.py": "9311edb7f639397a76cc4dccf4ddc0a29871ce4b2bf5da2c758c676e15128ffe",
+    "src\\inf8239_u04\\governance.py": "d3866d59078cad89b4bd48ad9e5fcd01bca6596603b3fdcce8de793d0e8cc0c6",
+    "src\\inf8239_u04\\impact.py": "a2691f0ee66301724013712100e22b691383b564fe8a3e9d3094b5e6d3fef836",
+    "src\\inf8239_u04\\model.py": "1be68a00966c53dda56be2704af581e62a088c918f13f960208a9e99cd82ff18",
+    "src\\inf8239_u04\\pipeline.py": "60e13cba72293b178e09e2ef971f8b278a00a9d05af9878d26dae6b1c833178f",
+    "src\\inf8239_u04\\privacy.py": "59009fc0bc638f83a411ad800d1d65e45c0ab337a37a4911387edde50c05592a",
+    "src\\inf8239_u04\\__init__.py": "91447944015cec709e8aa7655f7e9d64e1e4508e7023a57fe3746911c0fc6fed"
+  },
+  "data_sha256": "2af1858fe874f3914b0f9bfe068fd876cb716186694a6ece9a16e8c929128a01",
+  "policy_sha256": "12ec7132ff311750a7c4085285373f6c308471b9a4fd1b5a5790bd257e3bc27e",
+  "limitation": "Source hashes identify executed implementation; tests and PDF provide separate evidence. Dataset dates are synthetic."
+}

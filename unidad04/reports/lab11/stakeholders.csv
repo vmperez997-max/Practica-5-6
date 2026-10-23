@@ -1,0 +1,6 @@
+stakeholder,benefit,harm,power,participation
+Actor afectado ficticio,Oportunidad de revisión,Omisión o estigma por etiqueta territorial,low,Canal simulado de apelación y revisión; no se realizó consulta real
+Operador,Evidencia desagregada,Automatización acrítica y sobrecarga de alertas,medium,Revisar cada recomendación y registrar override
+Responsable institucional,Trazabilidad y control de alcance,Uso no autorizado y falta de respuesta,high,"Aprobar propósito; puede suspender, sin aprobación real registrada"
+Equipo de datos,Contratos y métricas verificables,"Proxies, fuga temporal o métricas engañosas",medium,"Versionar contratos, auditar y comunicar incertidumbre"
+Responsable de privacidad,Minimización técnica,Ingesta accidental de identificadores,medium,Revisar esquema y permisos; detener antes de predecir

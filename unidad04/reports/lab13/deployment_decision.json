@@ -1,0 +1,61 @@
+{
+  "decision": {
+    "status": "REVIEW",
+    "checks": {
+      "privacy": true,
+      "support": false,
+      "recall": true,
+      "recall_gap": false,
+      "fpr_gap": false,
+      "latency": true,
+      "model_size": true,
+      "training_cost": true
+    },
+    "failed": [
+      "support",
+      "recall_gap",
+      "fpr_gap"
+    ],
+    "failure_reasons": {
+      "support": "At least one audited intersection lacks minimum count or class denominators",
+      "recall_gap": "not_estimable_with_sufficient_support; not evidence of a measured excessive gap",
+      "fpr_gap": "not_estimable_with_sufficient_support; not evidence of a measured excessive gap"
+    },
+    "authority": "synthetic_sandbox_only",
+    "human_action": "Revisión humana obligatoria; registrar justificación, apelación y responsable. Ninguna salida autoriza intervención real."
+  },
+  "selected": {
+    "label": "logistic_t0.3_selected",
+    "model": "logistic",
+    "threshold": 0.3,
+    "split": "test",
+    "count": 160.0,
+    "accuracy": 0.7375,
+    "selection_rate": 0.7625,
+    "recall": 0.9347826086956522,
+    "precision": 0.7049180327868853,
+    "fpr": 0.5294117647058824,
+    "recall_gap": 0.0085429520645468,
+    "fpr_gap": 0.0432692307692307,
+    "intersection_recall_gap_supported": null,
+    "intersection_fpr_gap_supported": null,
+    "supported_intersections": 1,
+    "total_intersections": 8,
+    "support_ok": false,
+    "training_seconds": 0.0055906999996295,
+    "model_kb": 3.2822265625,
+    "latency_ms": 0.0210956249986793,
+    "status": "REVIEW"
+  },
+  "policy_version": "u04-v1",
+  "policy_sha256": "12ec7132ff311750a7c4085285373f6c308471b9a4fd1b5a5790bd257e3bc27e",
+  "model_sha256": "f1ea093879e90ba6c148e55118bd82e95ff73ed4dc3ac23a6236122845a6f9a1",
+  "dataset_sha256": "2af1858fe874f3914b0f9bfe068fd876cb716186694a6ece9a16e8c929128a01",
+  "human_owner": "Institutional Owner (rol simulado)",
+  "student_priority": "No omitir zonas que necesitan revisión humana; elección explícita",
+  "evidence": [
+    "reports/lab12/comparison.csv",
+    "reports/lab12/fairness_intersectional.csv",
+    "student_inputs/raci.csv"
+  ]
+}

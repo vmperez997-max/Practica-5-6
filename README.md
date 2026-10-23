@@ -1,5 +1,7 @@
 # INF-8239 · LAB08 + LAB09 · Sistemas recomendadores
 
+**Unidad 04:** [Ejercicios 07 y 08 · Impacto, equidad y DSS gobernado](unidad04/README.md), con PDF separados, auditoría Fairlearn, controles, runbook y simulacro.
+
 **Nueva actividad:** [LAB10 / Ejercicio 06 · Autoencoder y VAE con Fashion-MNIST](generativos/README.md), con entorno TensorFlow independiente, modelos entrenados, notebook e informe.
 
 **Victor Perez · Ciencia de Datos II · UASD.** Proyecto académico basado en la arquitectura docente de Edwin Ramón José Nolasco. Compara popularidad, TF-IDF de géneros, factorización y combinación híbrida sobre MovieLens Latest Small.

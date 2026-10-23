@@ -1,0 +1,50 @@
+{
+  "result": {
+    "label": "tree_t0.5",
+    "model": "tree",
+    "threshold": 0.5,
+    "split": "test",
+    "count": 160.0,
+    "accuracy": 0.70625,
+    "selection_rate": 0.59375,
+    "recall": 0.7608695652173914,
+    "precision": 0.7368421052631579,
+    "fpr": 0.36764705882352944,
+    "recall_gap": 0.01233981964878983,
+    "fpr_gap": 0.2548076923076923,
+    "intersection_recall_gap_supported": null,
+    "intersection_fpr_gap_supported": null,
+    "supported_intersections": 1,
+    "total_intersections": 8,
+    "support_ok": false,
+    "training_seconds": 0.004068799999913608,
+    "model_kb": 6.9951171875,
+    "latency_ms": 0.023325000000795626,
+    "status": "REVIEW"
+  },
+  "decision": {
+    "status": "REVIEW",
+    "checks": {
+      "privacy": true,
+      "support": false,
+      "recall": true,
+      "recall_gap": false,
+      "fpr_gap": false,
+      "latency": true,
+      "model_size": true,
+      "training_cost": true
+    },
+    "failed": [
+      "support",
+      "recall_gap",
+      "fpr_gap"
+    ],
+    "failure_reasons": {
+      "support": "At least one audited intersection lacks minimum count or class denominators",
+      "recall_gap": "not_estimable_with_sufficient_support; not evidence of a measured excessive gap",
+      "fpr_gap": "not_estimable_with_sufficient_support; not evidence of a measured excessive gap"
+    },
+    "authority": "synthetic_sandbox_only",
+    "human_action": "Revisi\u00f3n humana obligatoria; registrar justificaci\u00f3n, apelaci\u00f3n y responsable. Ninguna salida autoriza intervenci\u00f3n real."
+  }
+}

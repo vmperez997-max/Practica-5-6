@@ -1,0 +1,67 @@
+[
+  {
+    "case_id": "CASE-0617",
+    "probability": null,
+    "threshold": 0.3,
+    "priority": "cola_manual_completa",
+    "deployment_status": "REVIEW",
+    "model_version": "f1ea093879e90ba6",
+    "policy_version": "u04-v1",
+    "policy_sha256": "12ec7132ff311750a7c4085285373f6c308471b9a4fd1b5a5790bd257e3bc27e",
+    "evidence": "reports/lab13/deployment_decision.json",
+    "authority": "SOLO_SIMULACION; no intervención, emergencia ni elegibilidad",
+    "human_action": "Revisión obligatoria y registro de justificación; opción de anular o apelar."
+  },
+  {
+    "case_id": "CASE-0618",
+    "probability": null,
+    "threshold": 0.3,
+    "priority": "cola_manual_completa",
+    "deployment_status": "REVIEW",
+    "model_version": "f1ea093879e90ba6",
+    "policy_version": "u04-v1",
+    "policy_sha256": "12ec7132ff311750a7c4085285373f6c308471b9a4fd1b5a5790bd257e3bc27e",
+    "evidence": "reports/lab13/deployment_decision.json",
+    "authority": "SOLO_SIMULACION; no intervención, emergencia ni elegibilidad",
+    "human_action": "Revisión obligatoria y registro de justificación; opción de anular o apelar."
+  },
+  {
+    "case_id": "CASE-0619",
+    "probability": null,
+    "threshold": 0.3,
+    "priority": "cola_manual_completa",
+    "deployment_status": "REVIEW",
+    "model_version": "f1ea093879e90ba6",
+    "policy_version": "u04-v1",
+    "policy_sha256": "12ec7132ff311750a7c4085285373f6c308471b9a4fd1b5a5790bd257e3bc27e",
+    "evidence": "reports/lab13/deployment_decision.json",
+    "authority": "SOLO_SIMULACION; no intervención, emergencia ni elegibilidad",
+    "human_action": "Revisión obligatoria y registro de justificación; opción de anular o apelar."
+  },
+  {
+    "case_id": "CASE-0620",
+    "probability": null,
+    "threshold": 0.3,
+    "priority": "cola_manual_completa",
+    "deployment_status": "REVIEW",
+    "model_version": "f1ea093879e90ba6",
+    "policy_version": "u04-v1",
+    "policy_sha256": "12ec7132ff311750a7c4085285373f6c308471b9a4fd1b5a5790bd257e3bc27e",
+    "evidence": "reports/lab13/deployment_decision.json",
+    "authority": "SOLO_SIMULACION; no intervención, emergencia ni elegibilidad",
+    "human_action": "Revisión obligatoria y registro de justificación; opción de anular o apelar."
+  },
+  {
+    "case_id": "CASE-0621",
+    "probability": null,
+    "threshold": 0.3,
+    "priority": "cola_manual_completa",
+    "deployment_status": "REVIEW",
+    "model_version": "f1ea093879e90ba6",
+    "policy_version": "u04-v1",
+    "policy_sha256": "12ec7132ff311750a7c4085285373f6c308471b9a4fd1b5a5790bd257e3bc27e",
+    "evidence": "reports/lab13/deployment_decision.json",
+    "authority": "SOLO_SIMULACION; no intervención, emergencia ni elegibilidad",
+    "human_action": "Revisión obligatoria y registro de justificación; opción de anular o apelar."
+  }
+]

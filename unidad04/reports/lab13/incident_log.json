@@ -1,0 +1,84 @@
+{
+  "incident_id": "SIM-U04-001",
+  "simulation": true,
+  "injected_metrics": {
+    "recall_gap": 0.4,
+    "fpr_gap": 0.1
+  },
+  "decision": {
+    "status": "REVIEW",
+    "checks": {
+      "privacy": true,
+      "support": true,
+      "recall": true,
+      "recall_gap": false,
+      "fpr_gap": true,
+      "latency": true,
+      "model_size": true,
+      "training_cost": true
+    },
+    "failed": [
+      "recall_gap"
+    ],
+    "failure_reasons": {
+      "recall_gap": "criterion_not_met"
+    },
+    "authority": "synthetic_sandbox_only",
+    "human_action": "Revisión humana obligatoria; registrar justificación, apelación y responsable. Ninguna salida autoriza intervención real."
+  },
+  "previous_status": "REVIEW",
+  "events": [
+    {
+      "sequence": 1,
+      "event": "detección",
+      "role": "ML Engineer",
+      "action": "Inyectar brecha .40: alarma simulada, no medición real",
+      "executed_at_utc": "2026-10-23T11:48:20.281502+00:00"
+    },
+    {
+      "sequence": 2,
+      "event": "contención",
+      "role": "Operations Lead",
+      "action": "Bloquear recomendación de despliegue; cola humana completa, sin exclusión por score",
+      "executed_at_utc": "2026-10-23T11:48:20.281502+00:00"
+    },
+    {
+      "sequence": 3,
+      "event": "preservación",
+      "role": "Validation Lead",
+      "action": "Calcular hashes de política, datos y evidencias antes de intervenir",
+      "executed_at_utc": "2026-10-23T11:48:20.281502+00:00"
+    },
+    {
+      "sequence": 4,
+      "event": "comunicación",
+      "role": "Institutional Owner",
+      "action": "Redactar mensaje simulado; no se envían correos ni avisos externos",
+      "executed_at_utc": "2026-10-23T11:48:20.281502+00:00"
+    },
+    {
+      "sequence": 5,
+      "event": "rollback",
+      "role": "ML Engineer",
+      "action": "Cambiar estado de simulación a MANUAL_ONLY; todos los casos conservan revisión",
+      "executed_at_utc": "2026-10-23T11:48:20.281502+00:00"
+    },
+    {
+      "sequence": 6,
+      "event": "postmortem",
+      "role": "Institutional Owner",
+      "action": "Diagnosticar soporte, proxies y labels; revalidar antes de reactivar",
+      "executed_at_utc": "2026-10-23T11:48:20.281502+00:00"
+    }
+  ],
+  "preserved_evidence_sha256": {
+    "configs\\governance.yml": "12ec7132ff311750a7c4085285373f6c308471b9a4fd1b5a5790bd257e3bc27e",
+    "data\\territorial_risk_synthetic.csv": "2af1858fe874f3914b0f9bfe068fd876cb716186694a6ece9a16e8c929128a01",
+    "reports\\lab13\\deployment_decision.json": "8c710169691d7f7b96a50cb34d45090856170b02e3113be32eb8a8380c6c3d4d"
+  },
+  "rollback_state": "MANUAL_ONLY",
+  "real_communication_sent": false,
+  "communication_draft": "SIMULACRO: revisión requerida por brecha inyectada; mantener cola humana y no tomar decisiones automáticas.",
+  "action_due_proposed": "2026-10-30",
+  "closure": "Tabletop mechanics verified; organizational actions are simulated, not real approvals."
+}

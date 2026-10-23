@@ -12,3 +12,15 @@ gates:
   max_fpr_gap: 0.16
   max_latency_ms: 500
   max_model_kb: 1024
+  max_training_seconds: 30
+support:
+  min_count: 30
+  min_class: 10
+policy_version: u04-v1
+scope: synthetic_sandbox_only
+threshold_provenance: "Recall .68, gaps .16, latency 500ms and size 1024KiB inherited from teaching base; time 30s and support 30/10 are documented academic proposals, not legal thresholds."
+retention:
+  input_days: 30
+  audit_days: 90
+  incident_days: 180
+  status: proposed_academic_schedule_not_legal_requirement

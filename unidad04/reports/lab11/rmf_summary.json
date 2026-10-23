@@ -1,0 +1,30 @@
+{
+  "GOVERN": {
+    "evidence": [
+      "student_inputs/raci.csv",
+      "configs/governance.yml"
+    ],
+    "status": "roles y alcance documentados; no aprobación de uso real"
+  },
+  "MAP": {
+    "evidence": [
+      "student_inputs/lab11_impact.yml",
+      "student_inputs/risk_register.csv"
+    ],
+    "status": "12 escenarios; puntuaciones ordinales propuestas, no probabilidades observadas"
+  },
+  "MEASURE": {
+    "evidence": [
+      "reports/lab12/comparison.csv",
+      "reports/tests.txt"
+    ],
+    "status": "verificar resultados ejecutados; archivo existente no equivale a control eficaz"
+  },
+  "MANAGE": {
+    "evidence": [
+      "reports/lab13/deployment_decision.json",
+      "reports/lab13/INCIDENT_POSTMORTEM.md"
+    ],
+    "status": "bloqueo y simulacro verificables; controles organizativos propuestos"
+  }
+}

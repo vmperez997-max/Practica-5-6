@@ -1,0 +1,12 @@
+{
+  "baseline_window": "validation",
+  "current_window": "test",
+  "labels_available": true,
+  "scope": "observed synthetic retrospective comparison",
+  "exposure_mean_baseline": 0.5030989583333333,
+  "exposure_mean_current": 0.517830625,
+  "absolute_exposure_shift": 0.014731666666666698,
+  "proposed_drift_threshold": 0.1,
+  "status": "NO_EXPOSURE_MEAN_ALERT",
+  "limitation": "One marginal mean check is not a complete drift detector; delayed labels prevent immediate recall monitoring."
+}

@@ -1,6 +1,11 @@
-priority_harm: REPLACE
-primary_metric: REPLACE
-tolerance: REPLACE
-evidence: REPLACE
-limitation: REPLACE
-recommendation: REPLACE
+priority_harm: 'No omitir zonas que necesitan revisión humana: confirmado por estudiante.'
+primary_metric: Recall (TPR), con FPR y tasa de selección para medir carga y falsos
+  positivos.
+tolerance: Recall >= .68 y brechas TPR/FPR <= .16 heredados de la base; soporte n>=30
+  y >=10 por clase es propuesta académica, no norma legal.
+evidence: reports/lab12/comparison.csv; validation_candidates.csv; fairness_by_group.csv;
+  fairness_intersectional.csv
+limitation: Solo 1/8 intersecciones tiene soporte. Wilson 95% no ajusta dependencia
+  temporal ni comparaciones. Dataset sintético, no causalidad ni RD real.
+recommendation: LIMITAR a ensayo sintético y mantener REVIEW para despliegue. Cola
+  manual completa tras simulacro. No excluir casos por score; no aprobación operativa.

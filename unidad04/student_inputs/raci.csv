@@ -1,5 +1,7 @@
 activity,R,A,C,I
-Data quality,Data Engineer,Product Owner,Data Scientist,Affected representatives
-Model validation,Data Scientist,Product Owner,Data Engineer,Affected representatives
-Deployment,ML Engineer,Product Owner,Data Scientist,Users
-Incident response,ML Engineer,Institutional Owner,Legal and Data Scientist,Affected representatives
+Calidad e inventario,Data Engineer;Privacy Officer,Institutional Owner,Data Scientist,Operations Lead
+Validación independiente,Validation Lead,Institutional Owner,Data Scientist,Operations Lead
+Publicación académica,ML Engineer,Institutional Owner,Privacy Officer;Validation Lead,Usuarios académicos
+Operación y apelación,Operations Lead,Institutional Owner,Privacy Officer,Actor afectado ficticio
+Incidente y rollback,ML Engineer;Operations Lead,Institutional Owner,Privacy Officer;Validation Lead,Usuarios académicos
+Retención y eliminación,Privacy Officer,Institutional Owner,Data Engineer,Validation Lead

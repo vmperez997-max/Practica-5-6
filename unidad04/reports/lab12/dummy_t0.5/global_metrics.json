@@ -1,0 +1,50 @@
+{
+  "result": {
+    "label": "dummy_t0.5",
+    "model": "dummy",
+    "threshold": 0.5,
+    "split": "test",
+    "count": 160.0,
+    "accuracy": 0.575,
+    "selection_rate": 1.0,
+    "recall": 1.0,
+    "precision": 0.575,
+    "fpr": 1.0,
+    "recall_gap": 0.0,
+    "fpr_gap": 0.0,
+    "intersection_recall_gap_supported": null,
+    "intersection_fpr_gap_supported": null,
+    "supported_intersections": 1,
+    "total_intersections": 8,
+    "support_ok": false,
+    "training_seconds": 0.02983829999993759,
+    "model_kb": 2.9462890625,
+    "latency_ms": 0.025666249996447732,
+    "status": "REVIEW"
+  },
+  "decision": {
+    "status": "REVIEW",
+    "checks": {
+      "privacy": true,
+      "support": false,
+      "recall": true,
+      "recall_gap": false,
+      "fpr_gap": false,
+      "latency": true,
+      "model_size": true,
+      "training_cost": true
+    },
+    "failed": [
+      "support",
+      "recall_gap",
+      "fpr_gap"
+    ],
+    "failure_reasons": {
+      "support": "At least one audited intersection lacks minimum count or class denominators",
+      "recall_gap": "not_estimable_with_sufficient_support; not evidence of a measured excessive gap",
+      "fpr_gap": "not_estimable_with_sufficient_support; not evidence of a measured excessive gap"
+    },
+    "authority": "synthetic_sandbox_only",
+    "human_action": "Revisi\u00f3n humana obligatoria; registrar justificaci\u00f3n, apelaci\u00f3n y responsable. Ninguna salida autoriza intervenci\u00f3n real."
+  }
+}

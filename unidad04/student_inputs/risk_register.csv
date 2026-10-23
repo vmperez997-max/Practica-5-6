@@ -1,9 +1,13 @@
 id,scenario,affected,likelihood_1_4,impact_1_4,control,owner,evidence,residual
-R01,REPLACE,REPLACE,2,4,REPLACE,REPLACE,REPLACE,high
-R02,REPLACE,REPLACE,3,3,REPLACE,REPLACE,REPLACE,medium
-R03,REPLACE,REPLACE,2,3,REPLACE,REPLACE,REPLACE,medium
-R04,REPLACE,REPLACE,1,4,REPLACE,REPLACE,REPLACE,medium
-R05,REPLACE,REPLACE,2,2,REPLACE,REPLACE,REPLACE,low
-R06,REPLACE,REPLACE,3,2,REPLACE,REPLACE,REPLACE,medium
-R07,REPLACE,REPLACE,2,4,REPLACE,REPLACE,REPLACE,high
-R08,REPLACE,REPLACE,1,3,REPLACE,REPLACE,REPLACE,low
+R01,Omitir un positivo sintético por bajo score,Casos omitidos,3,4,Priorizar recall; cola humana para todos; no descartar por score,Data Scientist,reports/lab12/comparison.csv,high
+R02,Ocultar una brecha interseccional por bajo soporte,Subgrupos ficticios,3,4,Mostrar n y positivos/negativos; REVIEW si falta soporte,Validation Lead,reports/lab12/fairness_intersectional.csv,high
+R03,Atributos sensibles usados por error como predictores,Grupos G1/G2 y franjas,2,4,Allowlist sin protected_group ni age_band; tests de features,Data Engineer,tests/test_controls.py,medium
+R04,Columna con identificadores en una importación,Posibles titulares si se cambia alcance,2,4,Rechazar esquema antes de transformar o predecir; STOP,Privacy Officer,reports/lab13/control_tests.json,medium
+R05,Confundir dataset sintético con evidencia sobre RD,Público y comunidades reales,2,4,Aviso visible; prohibir inferencia real y despliegue operativo,Institutional Owner,app.py; docs/DATASET_CARD.md,medium
+R06,Sobrecarga humana por falsos positivos,Operador y cola de revisión,3,3,Comparar FPR y tasa de selección con revisión universal,Operations Lead,reports/lab12/comparison.csv,high
+R07,Ajustar umbral usando el futuro de prueba,Usuarios y validador,2,3,"Separar fit, validación y test por fecha; congelar selección",Validation Lead,reports/lab12/data_audit.json,low
+R08,Uso de zona como proxy aun excluyendo sensibles,Grupos ficticios,3,3,Auditoría de resultados y alternativa sin predicción; no afirmar causalidad,Data Scientist,reports/lab12/fairness_by_group.csv,medium
+R09,Cambio de datos o de etiquetas sin detectar,Operador,2,4,Comparar ventanas de monitoreo; REVIEW; activar runbook,ML Engineer,reports/lab13/monitoring.json,medium
+R10,Falta de responsable o entrega incompleta entre roles,Personas afectadas en uso futuro,2,3,"Un A por actividad, aceptación de traspaso y evidencia de checklist",Institutional Owner,student_inputs/raci.csv; docs/HANDOFF.md,low
+R11,Retención indefinida o captura de datos en Git,Titulares en futuro uso,2,4,"Inventario, agenda de retención propuesta, segregación e inspección de archivos",Privacy Officer,student_inputs/data_inventory.csv,medium
+R12,Roll back a modelo que también falla controles,Operador y grupos,2,4,"Revertir a cola manual completa, no a predictor inseguro; probar bloqueo",ML Engineer,reports/lab13/INCIDENT_POSTMORTEM.md,medium

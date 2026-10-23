@@ -1,0 +1,7 @@
+{
+  "model": "logistic",
+  "threshold": 0.3,
+  "selected_on": "validation_only",
+  "rule": "recall first; FPR, training time and serialized size as tie breakers; dummy is a reference, not an operational choice",
+  "no_eligible_candidate": false
+}

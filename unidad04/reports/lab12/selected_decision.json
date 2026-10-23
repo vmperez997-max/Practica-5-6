@@ -1,0 +1,25 @@
+{
+  "status": "REVIEW",
+  "checks": {
+    "privacy": true,
+    "support": false,
+    "recall": true,
+    "recall_gap": false,
+    "fpr_gap": false,
+    "latency": true,
+    "model_size": true,
+    "training_cost": true
+  },
+  "failed": [
+    "support",
+    "recall_gap",
+    "fpr_gap"
+  ],
+  "failure_reasons": {
+    "support": "At least one audited intersection lacks minimum count or class denominators",
+    "recall_gap": "not_estimable_with_sufficient_support; not evidence of a measured excessive gap",
+    "fpr_gap": "not_estimable_with_sufficient_support; not evidence of a measured excessive gap"
+  },
+  "authority": "synthetic_sandbox_only",
+  "human_action": "Revisi\u00f3n humana obligatoria; registrar justificaci\u00f3n, apelaci\u00f3n y responsable. Ninguna salida autoriza intervenci\u00f3n real."
+}

@@ -1,0 +1,6 @@
+asset,fields,purpose,access,retention,owner,control
+Dataset sintético,9 columnas; case_id ficticio; sin personas reales,Contrato y experimentos reproducibles,Repositorio académico,"Sin vencimiento del fixture público; si ingesta futura, propuesta 30 días",Data Engineer,CSV fixture; no identificar personas
+Auditoría sensible,protected_group y age_band ficticios,"Auditar, nunca predecir",Acceso local; agregados publicados,Propuesta 90 días para datos de operación futura,Privacy Officer,No hay datos personales actuales
+Modelos y metadatos,Parámetros y hashes; sin identificadores directos,Reproducir y validar,Repositorio académico controlado,Mientras exista evidencia reproducible; revisar versión,ML Engineer,No cargar joblib de terceros no confiables
+Recomendaciones,"case_id sintético, score, estado y versión",Trazabilidad de demostración,Artefactos locales y muestra educativa,Propuesta 30 días operativos; ejemplos sintéticos archivados,Operations Lead,No guardar campos libres o contactos
+Incidente,"Señal inyectada, roles y hashes",Simulacro y postmortem,Registro público sintético,Propuesta 180 días si fuera operación; no plazo legal,Institutional Owner,Ningún mensaje real enviado

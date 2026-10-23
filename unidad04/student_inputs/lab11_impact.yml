@@ -1,9 +1,20 @@
-purpose: REPLACE
-assisted_decision: REPLACE
-users: REPLACE
-affected_population: REPLACE
-owner: REPLACE
-non_predictive_alternative: REPLACE
-out_of_scope_use: REPLACE
-withdrawal_condition: REPLACE
-appeal_mechanism: REPLACE
+purpose: Ensayar priorización de revisión humana de casos territoriales exclusivamente
+  sintéticos; no omitir casos que requieren revisión.
+assisted_decision: Ordenar una cola educativa y mostrar evidencia; el operador conserva
+  revisión y facultad de anular.
+users: Operador de revisión y equipo docente; roles simulados, sin beneficiarios reales.
+affected_population: Registros ficticios G1/G2 y franjas etarias; no equivalen a comunidades
+  ni personas reales.
+owner: Responsable institucional (rol simulado); estudiante autor del expediente académico.
+non_predictive_alternative: Revisar todos los casos en orden de recepción y aplicar
+  una lista de comprobación humana; no descartar por score.
+out_of_scope_use: Prohibidas intervención automática, elegibilidad, culpabilidad,
+  emergencia y extrapolación a RD real.
+withdrawal_condition: STOP ante identificadores o contrato inválido; REVIEW ante puertas
+  fallidas o soporte insuficiente. Retirar uso real no autorizado.
+appeal_mechanism: Revisión por segundo operador e institucional owner; registrar motivo
+  y corrección mediante case_id sintético, sin datos personales.
+priority_harm: 'No omitir zonas que necesitan revisión humana: elección explícita
+  del estudiante en esta sesión.'
+value_provenance: Prioridad confirmada por estudiante; umbrales y puntuaciones de
+  riesgos son supuestos educativos documentados, no aprobaciones reales.

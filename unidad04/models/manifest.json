@@ -1,0 +1,14 @@
+{
+  "dummy.joblib": {
+    "sha256": "fc43a0e62477f082c5ec5c87e59d8490f9774702360c533c1300a8b15a8088d6",
+    "bytes": 3017
+  },
+  "logistic.joblib": {
+    "sha256": "f1ea093879e90ba6c148e55118bd82e95ff73ed4dc3ac23a6236122845a6f9a1",
+    "bytes": 3361
+  },
+  "tree.joblib": {
+    "sha256": "1cd3a4f34ef010332a7286fd55bf8bd31613a9328f7368e95dcb16f7b47dd21f",
+    "bytes": 7163
+  }
+}

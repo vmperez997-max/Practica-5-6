@@ -1,0 +1,20 @@
+[
+  {
+    "id": "old_fixture_log",
+    "age_days": 295,
+    "action": "REVIEW_FOR_DELETION",
+    "dry_run": true
+  },
+  {
+    "id": "held_evidence",
+    "age_days": 295,
+    "action": "HOLD",
+    "dry_run": true
+  },
+  {
+    "id": "recent_fixture_log",
+    "age_days": 3,
+    "action": "KEEP",
+    "dry_run": true
+  }
+]
