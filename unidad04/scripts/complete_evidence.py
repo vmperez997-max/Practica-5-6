@@ -53,7 +53,7 @@ provenance = {
     "model_seed": 42,
     "data_generation_seed": "not provided by teaching base",
     "source_hashes": {
-        str(p.relative_to(root)): sha(p) for p in (root / "src").rglob("*.py")
+        p.relative_to(root).as_posix(): sha(p) for p in (root / "src").rglob("*.py")
     },
     "data_sha256": sha(root / "data/territorial_risk_synthetic.csv"),
     "policy_sha256": sha(root / "configs/governance.yml"),
