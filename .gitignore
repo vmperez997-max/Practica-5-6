@@ -1,0 +1,13 @@
+.venv/
+.uv-cache/
+__pycache__/
+.pytest_cache/
+pytest-cache-files-*/
+.ruff_cache/
+data/raw/
+models/
+tmp/
+.ipynb_checkpoints/
+*.egg-info/
+.env
+*.pem
